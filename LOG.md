@@ -79,11 +79,11 @@ In due time I will be able to look back and say: I was a bookkeeper, now I am a 
 
 
 These are resources to learn and reference markdown syntax:
-1- [Link to Markdown Guide](https://www.markdownguide.org/)
-2- [Link to a Markwdown cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
-3- [Link to CommonMark](https://commonmark.org/)
-4- [Link to CommonMark Markdown cheat-sheet](https://commonmark.org/help/)
-5- [Link to CommonMark Markdown tutorial](https://commonmark.org/help/tutorial/)
+1. [Link to Markdown Guide](https://www.markdownguide.org/)
+2. [Link to a Markwdown cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+3. [Link to CommonMark](https://commonmark.org/)
+4. [Link to CommonMark Markdown cheat-sheet](https://commonmark.org/help/)
+5. [Link to CommonMark Markdown tutorial](https://commonmark.org/help/tutorial/)
 
 
 
