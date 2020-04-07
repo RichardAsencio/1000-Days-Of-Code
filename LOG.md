@@ -6,7 +6,7 @@
 
 ## This is START UP day  
 
-### Day [0]: [Tuesday], April [7th], 2020
+### Day 0: Tuesday April 7th, 2020
 
 #### **Today's Progress:** 
 * opened a brand new GitHub account under my full name 
@@ -92,7 +92,7 @@ These are resources to learn and reference markdown syntax:
 
 This is my template text for the daily logs:
 
-### Day [?]: [day of week], April [day], 2020
+### Day [?]: [dayofweek], April [day], 2020
 
 #### **Today's Progress:** 
 * example I fixed CSS
