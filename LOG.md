@@ -4,6 +4,22 @@
 
 --------------------------------------------------------
 
+### Day 2: Wednesday, April 8, 2020
+
+#### **Today's Progress:** 
+* did the [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) course on GitHub 
+* related to this intro course I created a repo called: [github-slideshow](https://github.com/RichardAsencio/github-slideshow)
+
+#### **Insights or thoughts:**
+
+I first tried GitHub in early [2016](https://github.com/Richuack/web-server-2016). By then I was so far from understanding it. Fast forward, on December 2019 I again tried to start understanding and practicing with it, and this time I bought a "Github for Dummies" book, but did not get past the 15th page. I finally got lucky when on early March 2020, at a Sunday Free-Code-Camp-Chicago-Loop meet-up, the founder, Robert Groves gave a step by step talk on Git, Github and GitHub pages. That day I really made the leap and really began to understand Git, GitHub and GitHub Pages. Finally today, after going thru all this intro course from the GitHub resources, I really feel accomplished as I finally have a clear understanding, a mental map of the basic workflow of Git and GitHub. In short, today was a win for me. I feel like I can't wait to start spending time with Git and GitHub, to create and host, share and collaborate, all sorts of things, with many people, throughout my Software Developer career-change journey. 
+
+Plans for tomorrow:
+1. work thru another Intro GitHub course to keep practicing 
+2. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
+
+--------------------------------------------------------
+
 ## This is START UP day  
 
 ### Day 0: Tuesday April 7th, 2020
@@ -11,19 +27,19 @@
 #### **Today's Progress:** 
 * opened a brand new GitHub account under my full name 
 * created this repo in my new GitHub account and locally in my MacBook
-* started to get familiar with the markdown language to  customize a log template
+* started to get familiar with the markdown language to customize a log template
 * was able to create a markdown template for my daily log entries  
 * wrote my personal state of affairs reflections as I start to document this journey
 
 #### **Insights or thoughts:**
 ##### My personal state-of-affairs as it relates to my career-change journey into Software Development
-I've had a good run of over fifteen years career on finance/accounting roles, but around year 2015 I started toying with the idea of making a career change but had not a clue as to where to pivot. By late 2015 (in San Juan, Puerto Rico) I came across a Codetrotters Academy ad and on early 2016 I invested $1,500.00 to attend a Web Dev Intro Course offered by the former. And I naively thought: I am on my way to soon become a tech/knowledge worker in the new economy; alas, if you continue reading you'll see my current state of affairs. 
+I've had a good run of over fifteen years career on finance/accounting roles, but around year 2015 I started toying with the idea of making a career change but had not a clue as to where to pivot. By late 2015 (in San Juan, Puerto Rico) I came across a Codetrotters Academy ad, and on early 2016 I invested $1,500.00 to attend a Web Dev Intro Course offered by the former. I naively thought: I am on my way to soon become a tech/knowledge worker in the new economy, alas, if you continue reading, you'll see my current state of affairs. 
 
-Technically speaking, at this coding workshop I did not made a lot of progress nor learned much, but a seed was planted in my mind: the certainty that the tech industry (specifically coders and programmers) was not necessarily a province only reserved for young and genius-minded folks whom spent their early years at their parents' home basements becoming code hackers. Learning to code or for that matter making a career-change into tech was now within my realm of reality. However, for $1,500.00, a rather significant amount of money paid to attend a workshop compared to what an UDEMY course (with twice the amount of skills learning content) costs, I was not able to extract much value in skills from this Codetrotters Web Dev Intro course, but was rather given a more valuable return: I gained the perspective of what at one point I considered an "off limits" option for me, now was an open possibility. Provided that I put in the time and effort, I could, even in the worst case scenario, become an average or mediocre tech worker that could at least scrap an average living income as a software developer. Who cares?; I rather work for an average middle class income and be happy, than for a fortune and be unfulfilled and miserable. So I thought  this is the career-change destination I am looking for. Yet multiple disrupting life events in a tumultous year of 2016 had me wrestling with my circumstances rather than being able to chart a path to a career change.  
+Technically speaking, at this coding workshop I did not learned much, but a seed was planted in my mind: the certainty that the tech industry (specifically coders and programmers) was not necessarily a province only reserved for young and genius-minded folks, who spent their early years at their parents' home basements becoming code hackers. Learning to code and for that matter making a career-change into tech was now within my realm of reality. However, for $1,500.00, a rather significant amount of money paid to attend a workshop compared to what an UDEMY course (with twice the amount of skills learning content) costs, I was not able to extract much value in skills from this Codetrotters Web Dev Intro course, but was rather given a more valuable return: I gained the perspective of what at one point I considered an "off limits" option for me, but now was an open possibility. Provided that I put in the time and effort, I could, even in the worst case scenario, become a mediocre tech worker that could at least scrap an average living income as a software developer. Who cares?; I rather work for an average middle class income and be happy, than for a fortune and be unfulfilled and miserable. So I thought, this is the career-change destination I am looking for. Yet multiple disrupting life events in a tumultous year of 2016 had me wrestling with my circumstances rather than being able to chart a path to a career change.  
 
-By mid-year of 2017, with the worst been over, life had me living in Chicago, and again I started breathing new air for my career change plans. I tried from Amazon & Shopify dropshipping, lost money on online e-commerce courses with huge promises and flat results, and again ended feeling startled and down, but nevertheles kept reading and researching whatever came my way that was tech/coding related. 
+By mid-year of 2017, with the worst been over, life had me living in Chicago, and again I started breathing new air for my career change plans. I tried Amazon & Shopify dropshipping, lost money on online e-commerce courses with huge promises and flat results, and again ended feeling startled and down; but nevertheles kept reading and researching whatever came my way that was tech/coding related. 
 
-Cloud computing, data science, machine learning, AI, IoT, web design, web development, frontend, backend, fullstack, Java, Python, Javascript, sql, mongoDB, frameworks, libraries, UI, UX, devOps, cybersecurity, Kubernetes, Docker, coding bootcamps, and on and on and on ... all these terms I didn't know until recently, but by now I was becoming  more knowledgeable and generally speaking undestood most of them. Still a year had gone by and I was now more confused than before. 
+Cripto-currency, blockchain, cloud computing, data science, machine learning, AI, IoT, web design, web development, frontend, backend, fullstack, Java, Python, Javascript, sql, no-sql, mongoDB, frameworks, libraries, UI, UX, devOps, cybersecurity, Kubernetes, Docker, coding bootcamps, and on and on and on ... all these terms I didn't know until recently, but by now I was becoming more knowledgeable and generally speaking, understood on a basic level, most of them. Still a year had gone by and I was now more confused than before. 
 
 By late 2018 I had researched many boot-camps and was considering the merits of learning in a controlled, guided and structured enviroment. Out of many, Hack Reactor Software Engineer program stood out, and as I started studying their prep materials geared to clear their admissions assesment interview hurdle, I got plunged into an eureka moment: "this feels like something I can do for hours without end. I feel drawn by the abstract intelectual exercise of this type of work, as well as the creative side of it, meaning: the possiblity of creating and building stuff that could be useful not only for me but to others. Who knows, maybe I can create or contribute to build stuff that could indeed make a difference in my community, my country or to the world at large, and at the same time earn a living. This is it, I want to do this".
 
@@ -75,18 +91,12 @@ In due time I will be able to look back and say: I was a bookkeeper, now I am a 
 
 --------------------------------------------------------
 
-
-
-
 These are resources to learn and reference markdown syntax:
 1. [Link to Markdown Guide](https://www.markdownguide.org/)
 2. [Link to a Markwdown cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 3. [Link to CommonMark](https://commonmark.org/)
 4. [Link to CommonMark Markdown cheat-sheet](https://commonmark.org/help/)
 5. [Link to CommonMark Markdown tutorial](https://commonmark.org/help/tutorial/)
-
-
-
 
 --------------------------------------------------------
 
