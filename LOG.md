@@ -4,6 +4,24 @@
 
 --------------------------------------------------------
 
+### Day 3: Thursday, April 9, 2020
+
+#### **Today's Progress:** 
+
+* did the [hello-world](https://guides.github.com/activities/hello-world/) course in GitHub but it was a mess, because once I finished it, I started to mess with it trying to do a collaboration work-flow. Like adding and trying to add collaborators, assignees or reviewers and I couldn't make it work. So from my RichuackFCC I forked the repo, and tried making pull requests, issues, merges, from the repo base account RichardAsencio, then from the RichuackFCC account, but to no avail. In the end I did not understood the sequence created, so I ended deleting the forked repo from RichuackFCC and also from RichardAsencio. If time allows, I will do this mini course again tonight if not tomorrow.   
+
+#### **Insights or thoughts:**
+
+As I created a mess in a simple repo trying to understand how collaboration is done with issues, pull requests, collaborators, assigneess and reviewers, the bravado feeling I had yesterday, quickly dissipated.
+
+#### **Plans for tomorrow:**
+
+1. work again thru the hello-world course 
+2. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
+3. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
+
+--------------------------------------------------------
+
 ### Day 2: Wednesday, April 8, 2020
 
 #### **Today's Progress:** 
