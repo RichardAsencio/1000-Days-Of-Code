@@ -14,7 +14,7 @@
 
 I first tried GitHub in early [2016](https://github.com/Richuack/web-server-2016). By then I was so far from understanding it. Fast forward, on December 2019 I again tried to start understanding and practicing with it, and this time I bought a "Github for Dummies" book, but did not get past the 15th page. I finally got lucky when on early March 2020, at a Sunday Free-Code-Camp-Chicago-Loop meet-up, the founder, Robert Groves gave a step by step talk on Git, Github and GitHub pages. That day I really made the leap and really began to understand Git, GitHub and GitHub Pages. Finally today, after going thru all this intro course from the GitHub resources, I really feel accomplished as I finally have a clear understanding, a mental map of the basic workflow of Git and GitHub. In short, today was a win for me. I feel like I can't wait to start spending time with Git and GitHub, to create and host, share and collaborate, all sorts of things, with many people, throughout my Software Developer career-change journey. 
 
-Plans for tomorrow:
+#### **Plans for tomorrow:**
 1. work thru another Intro GitHub course to keep practicing 
 2. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
 
@@ -108,13 +108,16 @@ This is my template text for the daily logs:
 * example I fixed CSS
 * example I worked on canvas functionality for the app.
 
-
 #### **Insights or thoughts:**
 
 I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 Plan to do tomorrow:
 1- do this and that
 2- here and there
+
+#### **Plans for tomorrow:**
+1. work thru another Intro GitHub course to keep practicing 
+2. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
 
 **Link to work:** [Calculator App](http://www.example.com)
 
