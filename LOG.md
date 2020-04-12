@@ -4,6 +4,24 @@
 
 --------------------------------------------------------
 
+### Day 5: Saturday April 11, 2020
+
+#### **Today's Progress:** 
+
+* /////////// EDIT THIS did *AGAIN* the [hello-world](https://guides.github.com/activities/hello-world/) course in GitHub and this was the [result](https://github.com/RichardAsencio/hello-world)
+
+#### **Insights or thoughts:**
+
+/////////// EDIT THIS This time around I just followed the script while taking my notes, and I am feeling much better after yesterday's wreck with this.  
+
+#### **Plans for tomorrow:**
+/////////// EDIT THIS
+1. work again thru the hello-world course step by step but with another repo name, with a simple HTML doc, in which I create the html doc in a few steps and go about creating perhaps two branches, one for HTML doc, make pull request, merge it and close it, then another branch for a css file, make a pull request, merge it and close it   
+2. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
+3. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
+
+--------------------------------------------------------
+
 ### Day 4: Friday April 10, 2020
 
 #### **Today's Progress:** 
