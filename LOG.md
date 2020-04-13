@@ -4,6 +4,24 @@
 
 --------------------------------------------------------
 
+### Day 6: Sunday April 12, 2020
+
+#### **Today's Progress:** 
+
+* posted on Monday, however yesterday I spent a couple hours between praticcing Git/Gitug with a Colt Steele two youtube videos link here: *
+
+* I also attended a remote meetup lecture on the Command Line lead by Robert Groves from freeCodeCamp-Chicago-Loop. Here the links to the lecture recording and the jitsi app link 
+
+#### **Insights or thoughts:**
+
+//////////////////
+
+#### **Plans for tomorrow:**
+
+//////////////////
+
+--------------------------------------------------------
+
 ### Day 5: Saturday April 11, 2020
 
 #### **Today's Progress:** 
