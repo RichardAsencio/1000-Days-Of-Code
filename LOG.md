@@ -6,7 +6,7 @@
 --------------------------------------------------------
 
 
-### Day 8: Tuesday April 14, 2020
+### Day 7: Tuesday April 14, 2020
 *Posted on Wednesday April 15 2020*
 
 
@@ -30,7 +30,7 @@
 --------------------------------------------------------
 
 
-### Day 7: Monday April 13, 2020
+### Day 6: Monday April 13, 2020
 *Posted on Wednesday April 15 2020*
 
 
@@ -58,7 +58,7 @@
 --------------------------------------------------------
 
 
-### Day 6: Sunday April 12, 2020
+### Day 5: Sunday April 12, 2020
 *Posted On Monday April 13 2020*
 
 
@@ -84,7 +84,7 @@
 --------------------------------------------------------
 
 
-### Day 5: Saturday April 11, 2020
+### Day 4: Saturday April 11, 2020
 
 
 #### **Today's Progress:** 
@@ -107,7 +107,7 @@ Since I got to have some working understanding of Git/GitHUb I am on a mission t
 --------------------------------------------------------
 
 
-### Day 4: Friday April 10, 2020
+### Day 3: Friday April 10, 2020
 
 
 #### **Today's Progress:** 
@@ -130,7 +130,7 @@ This time around I just followed the script while taking my notes, and I am feel
 --------------------------------------------------------
 
 
-### Day 3: Thursday April 9, 2020
+### Day 2: Thursday April 9, 2020
 
 
 #### **Today's Progress:** 
@@ -153,7 +153,7 @@ As I created a mess in a simple repo trying to understand how collaboration is d
 --------------------------------------------------------
 
 
-### Day 2: Wednesday April 8, 2020
+### Day 1: Wednesday April 8, 2020
 
 
 #### **Today's Progress:** 
