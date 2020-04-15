@@ -6,8 +6,33 @@
 --------------------------------------------------------
 
 
+### Day 8: Tuesday April 14, 2020
+*Posted on Wednesday April 15 2020*
+
+
+#### **Today's Progress:** 
+
+* spent a couple hours between praticing Git with a Colt Steele youtube videos titled [Learn GitHub in 20 Minutes](https://www.youtube.com/watch?v=nhNq2kIvi9s) 
+
+
+#### **Insights or thoughts:**
+
+* I am laser focused on learning Git/GitHub
+
+
+#### **Plans for tomorrow:**
+
+1. watch some more video tutorials that I have discovered on Git and choose another one to practice
+2. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
+3. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
+
+
+--------------------------------------------------------
+
+
 ### Day 7: Monday April 13, 2020
 *Posted on Wednesday April 15 2020*
+
 
 #### **Today's Progress:** 
 
@@ -22,9 +47,10 @@
 
 * this forced decision does not frustrates me as I am taking the long view with this effort of mine of making a career change into software development 
 
+
 #### **Plans for tomorrow:**
 
-1. watch some more video tutorials that I have discovered on Git and choose ont to practice
+1. watch some more video tutorials that I have discovered on Git and choose another one to practice
 2. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
 3. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
 
@@ -35,15 +61,18 @@
 ### Day 6: Sunday April 12, 2020
 *Posted On Monday April 13 2020*
 
+
 #### **Today's Progress:** 
 
 * I attended a remote meetup lecture on the Command Line lead by Robert Groves from freeCodeCamp-Chicago-Loop. Here's the [link](https://www.dropbox.com/sh/hz76wreljql1go3/AAD6WSDEoO94iEEaiZQF1dP4a?dl=0) to the lecture recording 
 
 * spent a couple hours between praticing Git with a Colt Steele youtube videos titled [Learn Git in 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE) 
 
+
 #### **Insights or thoughts:**
 
 * I continue on a focused effort to really be skillful on Git/GitHub, I feel as it will allow me to finally resch out to the Git Community, start saving my progress and learning resources as well as geting started collaborating and startingto contribute to an Open Source project of my choosing.
+
 
 #### **Plans for tomorrow:**
 
@@ -57,13 +86,16 @@
 
 ### Day 5: Saturday April 11, 2020
 
+
 #### **Today's Progress:** 
 
 * did another [practice repo](https://github.com/RichardAsencio/practiceREPO) in GitHub 
 
+
 #### **Insights or thoughts:**
 
 Since I got to have some working understanding of Git/GitHUb I am on a mission to really hammer down my newly learned git skills. As I continue to practice and review some other resources I keep practicing as well as learning some other commands.  
+
 
 #### **Plans for tomorrow:**
 1. watch some more video tutorials that I have discovered 
@@ -77,13 +109,16 @@ Since I got to have some working understanding of Git/GitHUb I am on a mission t
 
 ### Day 4: Friday April 10, 2020
 
+
 #### **Today's Progress:** 
 
 * did *AGAIN* the [hello-world](https://guides.github.com/activities/hello-world/) course in GitHub and this was the [result](https://github.com/RichardAsencio/hello-world)
 
+
 #### **Insights or thoughts:**
 
 This time around I just followed the script while taking my notes, and I am feeling much better after yesterday's wreck with this.  
+
 
 #### **Plans for tomorrow:**
 
@@ -97,13 +132,16 @@ This time around I just followed the script while taking my notes, and I am feel
 
 ### Day 3: Thursday April 9, 2020
 
+
 #### **Today's Progress:** 
 
 * did the [hello-world](https://guides.github.com/activities/hello-world/) course in GitHub but it was a mess, because once I finished it, I started to mess with it trying to do a collaboration work-flow. Like adding and trying to add collaborators, assignees or reviewers and I couldn't make it work. So from my RichuackFCC I forked the repo, and tried making pull requests, issues, merges, from the repo base account RichardAsencio, then from the RichuackFCC account, but to no avail. In the end I did not understood the sequence created, so I ended deleting the forked repo from RichuackFCC and also from RichardAsencio. If time allows, I will do this mini course again tonight if not tomorrow.   
 
+
 #### **Insights or thoughts:**
 
 As I created a mess in a simple repo trying to understand how collaboration is done with issues, pull requests, collaborators, assigneess and reviewers, the bravado feeling I had yesterday, quickly dissipated.
+
 
 #### **Plans for tomorrow:**
 
@@ -117,13 +155,16 @@ As I created a mess in a simple repo trying to understand how collaboration is d
 
 ### Day 2: Wednesday April 8, 2020
 
+
 #### **Today's Progress:** 
 * did the [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) course on GitHub 
 * related to this intro course I created a repo called: [github-slideshow](https://github.com/RichardAsencio/github-slideshow)
 
+
 #### **Insights or thoughts:**
 
 I first tried GitHub in early [2016](https://github.com/Richuack/web-server-2016). By then I was so far from understanding it. Fast forward, on December 2019 I again tried to start understanding and practicing with it, and this time I bought a "Github for Dummies" book, but did not get past the 15th page. I finally got lucky when on early March 2020, at a Sunday Free-Code-Camp-Chicago-Loop meet-up, the founder, Robert Groves gave a step by step talk on Git, Github and GitHub pages. That day I really made the leap and really began to understand Git, GitHub and GitHub Pages. Finally today, after going thru all this intro course from the GitHub resources, I really feel accomplished as I finally have a clear understanding, a mental map of the basic workflow of Git and GitHub. In short, today was a win for me. I feel like I can't wait to start spending time with Git and GitHub, to create and host, share and collaborate, all sorts of things, with many people, throughout my Software Developer career-change journey. 
+
 
 #### **Plans for tomorrow:**
 1. work thru another Intro GitHub course to keep practicing 
@@ -134,8 +175,8 @@ I first tried GitHub in early [2016](https://github.com/Richuack/web-server-2016
 
 
 ## This is START UP day  
-
 ### Day 0: Tuesday April 7th, 2020
+
 
 #### **Today's Progress:** 
 * opened a brand new GitHub account under my full name 
@@ -143,6 +184,7 @@ I first tried GitHub in early [2016](https://github.com/Richuack/web-server-2016
 * started to get familiar with the markdown language to customize a log template
 * was able to create a markdown template for my daily log entries  
 * wrote my personal state of affairs reflections as I start to document this journey
+
 
 #### **Insights or thoughts:**
 ##### My personal state-of-affairs as it relates to my career-change journey into Software Development
@@ -211,7 +253,11 @@ These are resources to learn and reference markdown syntax:
 4. [Link to CommonMark Markdown cheat-sheet](https://commonmark.org/help/)
 5. [Link to CommonMark Markdown tutorial](https://commonmark.org/help/tutorial/)
 
+
 --------------------------------------------------------
+
+
+
 
 
 
