@@ -2,25 +2,58 @@
 # 1000 Days Of Code - Daily Log
 ### *My Career Change Journey into Software Development*
 
+
 --------------------------------------------------------
 
-### Day 6: Sunday April 12, 2020
+
+### Day 7: Monday April 13, 2020
+*Posted on Wednesday April 15 2020*
 
 #### **Today's Progress:** 
 
-* posted on Monday, however yesterday I spent a couple hours between praticcing Git/Gitug with a Colt Steele two youtube videos link here: *
+* did not practiced JavaScript during the past few days, so I did today, for two hours with some Hack Reactor's Prep Course JavaScript coding challenges 
 
-* I also attended a remote meetup lecture on the Command Line lead by Robert Groves from freeCodeCamp-Chicago-Loop. Here the links to the lecture recording and the jitsi app link 
 
 #### **Insights or thoughts:**
 
-//////////////////
+* even as I have been practicing for Hack Reactor's Admission's Technical Inteview, I decided not to take it due to the Coronavirus situation as my income generating ability moving forward is uncertain and I do not want to start the next month with a new monthly liability of $350 for the student loan that I have to take to get started with the bootcamp, plus shelling out $2000 cash for the deposit; right now this is not a smart financial decision so this project has to wait until there's more short term visibility and less income generating uncertainty 
+
+* related to my this decision I will then continue to practice JavaScript to remain warm and continue to strengthen my JavaScript coding skills, but now since I am not at a race to enroll at the next cohort that starts on May I can fragment my study time into 1-JavaScript, 2-Web Design (with FreeCodeCamp and other resources) and 3-Git Collaboration learning resources and startig to engage in an Open Source Project as soon as ready to do so  
+
+* this forced decision does not frustrates me as I am taking the long view with this effort of mine of making a career change into software development 
 
 #### **Plans for tomorrow:**
 
-//////////////////
+1. watch some more video tutorials that I have discovered on Git and choose ont to practice
+2. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
+3. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
+
 
 --------------------------------------------------------
+
+
+### Day 6: Sunday April 12, 2020
+*Posted On Monday April 13 2020*
+
+#### **Today's Progress:** 
+
+* I attended a remote meetup lecture on the Command Line lead by Robert Groves from freeCodeCamp-Chicago-Loop. Here's the [link](https://www.dropbox.com/sh/hz76wreljql1go3/AAD6WSDEoO94iEEaiZQF1dP4a?dl=0) to the lecture recording 
+
+* spent a couple hours between praticing Git with a Colt Steele youtube videos titled [Learn Git in 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE) 
+
+#### **Insights or thoughts:**
+
+* I continue on a focused effort to really be skillful on Git/GitHub, I feel as it will allow me to finally resch out to the Git Community, start saving my progress and learning resources as well as geting started collaborating and startingto contribute to an Open Source project of my choosing.
+
+#### **Plans for tomorrow:**
+
+1. watch some more video tutorials that I have discovered on Git and choose ont to practice
+2. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
+3. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/) 
+
+
+--------------------------------------------------------
+
 
 ### Day 5: Saturday April 11, 2020
 
@@ -38,7 +71,9 @@ Since I got to have some working understanding of Git/GitHUb I am on a mission t
 3. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
 4. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
 
+
 --------------------------------------------------------
+
 
 ### Day 4: Friday April 10, 2020
 
@@ -56,7 +91,9 @@ This time around I just followed the script while taking my notes, and I am feel
 2. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
 3. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
 
+
 --------------------------------------------------------
+
 
 ### Day 3: Thursday April 9, 2020
 
@@ -74,7 +111,9 @@ As I created a mess in a simple repo trying to understand how collaboration is d
 2. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
 3. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
 
+
 --------------------------------------------------------
+
 
 ### Day 2: Wednesday April 8, 2020
 
@@ -90,7 +129,9 @@ I first tried GitHub in early [2016](https://github.com/Richuack/web-server-2016
 1. work thru another Intro GitHub course to keep practicing 
 2. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
 
+
 --------------------------------------------------------
+
 
 ## This is START UP day  
 
@@ -171,6 +212,11 @@ These are resources to learn and reference markdown syntax:
 5. [Link to CommonMark Markdown tutorial](https://commonmark.org/help/tutorial/)
 
 --------------------------------------------------------
+
+
+
+
+
 
 This is my template text for the daily logs:
 
