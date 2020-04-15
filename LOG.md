@@ -6,6 +6,31 @@
 --------------------------------------------------------
 
 
+### Day 8: Wednesady April 15, 2020
+*Posted on Wednesday April 15 2020*
+
+
+#### **Today's Progress:** 
+
+* /// 
+
+
+#### **Insights or thoughts:**
+
+* /// I am laser focused on learning Git/GitHub
+
+
+#### **Plans for tomorrow:**
+
+/// 
+1. watch some more video tutorials that I have discovered on Git and choose another one to practice
+2. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
+3. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
+
+
+--------------------------------------------------------
+
+
 ### Day 7: Tuesday April 14, 2020
 *Posted on Wednesday April 15 2020*
 
