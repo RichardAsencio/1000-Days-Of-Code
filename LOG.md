@@ -271,6 +271,19 @@ In due time I will be able to look back and say: I was a bookkeeper, now I am a 
 
 --------------------------------------------------------
 
+## Posted on April 16, 2020
+As I update my LinkedIn profile and decide to erase my ABOUT text, I thought: It miht be a good idea to paste it inn here, to look back to it as I transition and become a software developer in the ensuing years:
+
+My professional career path has spanned two decades. I started in investment/sales and from there moved on to roles in finance/accounting. I’ve owned a bookkeeping services firm for over seventeen years. A few years forward, while still managing my bookkeeping practice, I was able to insert myself into the challenging real estate industry of Puerto Rico in roles that ranged from asset preservation and field service inspections to full-service real estate brokerage. However, even though finance/accounting can broadly define my professional work career, it has not precluded me from pursuing my many other work/life interests.
+
+Recently, I moved to the great city of Chicago and fully immersed myself in a self-taught learning journey of web and software development. I’m following a path to become a full stack web developer and currently investing my time in learning JavaScript.
+
+Some could wonder how I’ve landed in this technology path. As it went, being a lifelong learner, in early 2016 I decided to learn some skills outside my finance/accounting skill-set and enrolled in a web intro coding boot camp. After graduating from Codetrotters Academy, where I learned the basics of front-end web dev I became passionate about web dev and software development and decided to continue to educate myself to make a career change into this arena in the near future.
+
+Finally, as I change careers, I continue to passionately invest time in my learning journey as I look forward to inserting myself into the local web and software development industry and community, ultimately pursuing an opportunity on a role as a full-stack software developer. 
+
+--------------------------------------------------------
+
 These are resources to learn and reference markdown syntax:
 1. [Link to Markdown Guide](https://www.markdownguide.org/)
 2. [Link to a Markwdown cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
