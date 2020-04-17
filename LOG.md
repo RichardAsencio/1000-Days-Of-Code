@@ -6,6 +6,30 @@
 --------------------------------------------------------
 
 
+### Day 10: Friday April 17, 2020
+
+
+#### **Today's Progress:** 
+
+* did again Colt Steele's youtube video course titled [Learn GitHub in 20 Minutes](https://www.youtube.com/watch?v=nhNq2kIvi9s) 
+
+
+#### **Insights or thoughts:**
+
+* I contiue to be laser focused on learning Git/GitHub
+
+
+#### **Plans for tomorrow:**
+
+
+1. watch some more video tutorials that I have discovered on Git and choose another one to practice
+2. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
+3. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
+
+
+--------------------------------------------------------
+
+
 ### Day 9: Thursday April 16, 2020
 *Posted on Friday April 17 2020*
 
@@ -21,7 +45,7 @@
 #### **Insights or thoughts:**
 
 * I am laser focused on learning Git/GitHub
-* should I start learning Python when I still learning JavaScript on a very basic level ??? I fear the answwer is NO !!!
+* should I start learning Python when I still learning JavaScript on a very basic level ??? I fear the answwer is *NO* !!!
 
 
 #### **Plans for tomorrow:**
@@ -365,25 +389,3 @@ or
 --------------------------------------------------------
 
 
---------------------------------------------------------
-
-
-### Day 10: Friday April 17, 2020
-
-
-#### **Today's Progress:** 
-
-* did again Colt Steele's youtube video course titled [Learn GitHub in 20 Minutes](https://www.youtube.com/watch?v=nhNq2kIvi9s) 
-
-
-#### **Insights or thoughts:**
-
-* I contiue to be laser focused on learning Git/GitHub
-
-
-#### **Plans for tomorrow:**
-
-
-1. watch some more video tutorials that I have discovered on Git and choose another one to practice
-2. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
-3. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
