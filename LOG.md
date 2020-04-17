@@ -3,23 +3,30 @@
 ### *My Career Change Journey into Software Development*
 
 
+--------------------------------------------------------
+
+
 ### Day 9: Thursday April 16, 2020
 *Posted on Friday April 17 2020*
 
 
 #### **Today's Progress:** 
 
-* /// 
+* did again this Colt Steele Git course: [Learn Git in 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE) 
+* did some JavaScript practice within Hack-Reactor's G-Learn platform  
+* while exploring GitHub this DeepFake repo came across : [faceswap](https://github.com/deepfakes) and [DeepFaceLab](https://github.com/iperov/DeepFaceLab) ... this stuff blows my mind and I want to spend some time fgetting famliar with this or how I can get started particularly becuase I am interested in AI, Deep & Machine Learning ... I thjik this will force me to start learning Python 
+
 
 
 #### **Insights or thoughts:**
 
-* /// I am laser focused on learning Git/GitHub
+* I am laser focused on learning Git/GitHub
+* should I start learning Python when I still learning JavaScript on a very basic level ??? I fear the answwer is NO !!!
 
 
 #### **Plans for tomorrow:**
 
-/// 
+
 1. watch some more video tutorials that I have discovered on Git and choose another one to practice
 2. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
 3. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
@@ -28,23 +35,24 @@
 --------------------------------------------------------
 
 
-### Day 8: Wednesady April 15, 2020
+### Day 8: Wednesday April 15, 2020
 *Posted on Wednesday April 15 2020*
 
 
 #### **Today's Progress:** 
 
-* /// 
+* spent time doing JavaScript coding challenges at Hack Reactor's G-Learn platform 
+* spent a couple hours practicing GitHub with a Colt Steele youtube videos titled [Learn GitHub in 20 Minutes](https://www.youtube.com/watch?v=nhNq2kIvi9s)
 
 
 #### **Insights or thoughts:**
 
-* /// I am laser focused on learning Git/GitHub
+* I continue to focus on learning Git/GitHub, but I need to keep sharpening my JavaScript saw non-stop 
 
 
 #### **Plans for tomorrow:**
 
-/// 
+
 1. watch some more video tutorials that I have discovered on Git and choose another one to practice
 2. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
 3. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
@@ -59,7 +67,8 @@
 
 #### **Today's Progress:** 
 
-* spent a couple hours between praticing Git with a Colt Steele youtube videos titled [Learn GitHub in 20 Minutes](https://www.youtube.com/watch?v=nhNq2kIvi9s) 
+* attended to freeCodeCamp [LockDownConf](https://www.youtube.com/watch?v=l8K0B270cgE) and it was awesome !!!
+* spent time doing JavaScript coding challenges at Hack Reactor's G-Learn platform  
 
 
 #### **Insights or thoughts:**
@@ -83,7 +92,7 @@
 
 #### **Today's Progress:** 
 
-* did not practiced JavaScript during the past few days, so I did today, for two hours with some Hack Reactor's Prep Course JavaScript coding challenges 
+* did not practiced JavaScript during the past few days, so I did today, for two hours with some Hack Reactor's Prep Course JavaScript coding challenges at he G-Learn platform
 
 
 #### **Insights or thoughts:**
@@ -123,7 +132,7 @@
 
 #### **Plans for tomorrow:**
 
-1. watch some more video tutorials that I have discovered on Git and choose ont to practice
+1. watch some more video tutorials that I have discovered on Git and choose which ones to practice
 2. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
 3. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/) 
 
@@ -356,4 +365,25 @@ or
 --------------------------------------------------------
 
 
+--------------------------------------------------------
 
+
+### Day 10: Friday April 17, 2020
+
+
+#### **Today's Progress:** 
+
+* did again Colt Steele's youtube video course titled [Learn GitHub in 20 Minutes](https://www.youtube.com/watch?v=nhNq2kIvi9s) 
+
+
+#### **Insights or thoughts:**
+
+* I contiue to be laser focused on learning Git/GitHub
+
+
+#### **Plans for tomorrow:**
+
+
+1. watch some more video tutorials that I have discovered on Git and choose another one to practice
+2. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
+3. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
