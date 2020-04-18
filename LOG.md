@@ -6,6 +6,63 @@
 --------------------------------------------------------
 
 
+### Day 11: Saturday April 18, 2020
+
+
+#### **Today's Progress:** 
+
+
+* watch and did some coding practice with a LikedIn Git Tutorial [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code) 
+* at the LinkedIn video course I saw that depending on how you installed Git initially you could access it thru the regular Windows Command Line, but since I couldn't access it thru my regular command line but only thru the Bash profile, I went ahead and erased my PC Git Installation, which also erased the Bash software profile, and re-installed again (per the video instructions) and as it turned out, I can't access my git commands thru the regular command line prompt but since I erased my Git, now I have the latest version of it in my Windows machine, which as of today is "git version 2.26.1.windows.1 
+
+
+#### **Insights or thoughts:**
+
+* I contiue to be laser focused on learning Git/GitHub, the Terminal, Bash, XCode, Homebrew and all things command line related both in my Macbook and my Surfacebook 
+
+
+#### **Plans for tomorrow:**
+
+(start including this upcoming Monday to include in this LOG the agenda and all activities actually performed and related to my Software Career journey, even if it is not coding per se, so that as I get started in my day I start writing my notes here of all I did that is related to this journey from job search efforts, social media resources I follow, to reading related books, related TV series, people I got to know, conferences attended, etc)
+
+Will start this upcoming *Monday* again with *four* major activities related to my software developer career:
+    * practice typing everyday (1/2 hour) (I want to be crazy fast with my typing skills, and that for me is upwards 80 words per minute)
+    * everyday do (2 hours) of Hack Reactor (will decide where to Get Started)
+    * do the *first* the Head First HTML ad CSS book, then *second* the FreeCodeCamp Web Responsive Certification (HTML & CSS) to hang it on my resume, FlexCode nad LinkedIn profiles, and then *third* continue with the Pack HTML & CSS certification and then *fourth* with the W3C HTML & CSS certification, and *fifth* check the LinkedIn LEARN certifications if any for this topic of HTML & CSS. ALso consider the other HEAD First titles relarted to HTML5 and HTML programming ...
+    * then  start with the Head First JavaScript book, the JavaScript FreeCode Camp certifications, and the Pack and W3C certifications as well, and also check the LinkedIn LEARN certifications if any for this topic of JavaScript
+
+1. before the freeCodeCamp Chicago Loop lecture on Git/GitHub workflow watch any video that willcover this so I can have qeustions to ask at the freecodecmap lecture later today: Try Traversy media 30 min video tutorial and then three  half hour videos of David Mahler 
+
+2. attend freeCodeCamp Chicago Loop virtualmeetup for a Git/GitHub workflow lecture
+
+
+
+3. research and learn about the Terminal and XCode, try LinkedIn lEARN, YouTube Corey Schafer and many resources
+
+4. complete the Corey Shafer tutorial on [Homebrew](https://www.youtube.com/watch?v=SELYgZvAZbU) 
+
+5. check this other video y Corey Schafer on [How I Setup a New Development Machine - using scripts](https://www.youtube.com/watch?time_continue=1&v=kIdiWut8eD8&feature=emb_logo) to automate installs and Save Time 
+
+6. learn Homebrew with LinkedIn lEARN platform Corey Schafer You Tube videos / I want to get familiar with HOMEBREW which seems to be a package installer of MAC for the Terminal and see if I have the latest version and if not then see if I can update it. Check first for my LinkedIn LEARN resources as my experience with the Git Essential course was fantastic, and I should leverge my LinkedIn susbcription not only to learn but also if I can hang in my LinkedIn profile any courses finished at the LinkedIn LEARN platform I need to do so ...  
+
+5. Once I am familiar with Homebrew I want to research How To Update Git in both my laptops MAC and PC which as of today is 2.23.0 (my MacBook says my curr versions are git version 2.23.0 and 2.26.1.windows.1 respectively)
+
+5. Watch any tutorial related to Windows bash terminal 
+
+6. continue to sharpen my Git/GitHub skills 
+
+7. watch again LikedIn Git Tutorial [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code) 
+
+8. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
+
+9. watch some more video tutorials that I have discovered on Git and choose another one to practice
+
+10. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
+
+
+--------------------------------------------------------
+
+
 ### Day 10: Friday April 17, 2020
 
 
