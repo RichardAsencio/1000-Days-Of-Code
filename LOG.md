@@ -6,7 +6,8 @@
 --------------------------------------------------------
 
 
-### Day 14: Tuesday April 21, 2020
+### Day 15: Wednesday April 22, 2020
+*Posted on Thursday April 23, 2020*
 
 
 #### **Today's Progress:** 
@@ -19,6 +20,63 @@
 
 * I am trying to be done with my basic knowledge gaps as it relates to command line, Terminal, Bash Shell, homebrew etc, so I can resume my Git/GitHub learning and pratice 
 * I continue to be laser focused on learning Git/GitHub, the Terminal, Bash, XCode, Homebrew and all things command line related both in my Macbook and my Surfacebook 
+
+
+#### **Plans for tomorrow:**
+
+1. tomorrow Thursday continue to include in this log the agenda and all activities actually performed and related to my Software Career journey, even if it is not coding per se, so that as I get started in my day I start writing my notes here of all I did during the day that is related to this career-change journey; from job search efforts, social media resources I follow, to reading related books, related TV series, people I get to know, course started and finished,  conferences attended, etc
+
+    Draft of Daily Agenda: 
+    * practice typing
+    * 1 hour of practice with any Git/GitHub course with the goal of starting to contrinute to an open source project / also read my GitHub For Dummies book
+    * 2 hours of any HTML/CSS. Start with Head First HTML, and then fCC's Responsive Web Design certification, then W3School HTML and CSS certificates, Packt HTML & CSS certification, LinkedIn courses to hang up in my LinkedIn profile, then do Head First HTML5, then my Udemy Web Dev & Design courses
+    * 1 hour of my Designer Udemy courses    
+    * X amount of hours left to go thru my Hack Reactor curriculum, go thru all my Udemy JavaScript course, then do Head First JavaScript, then Eloquent JavaScript and then do Watch and Code basic/free portion by Grodon Zhu, and then enrill into his paid version of the course 
+    * when done with these courses dive into my many books of HTML/CSS & JavaScript
+
+    * I need to include Python in my daily activities (do my self taught course) because I am so interested in Data Science (data mining & Analysis), Machine Learning, Deep Learning, AI ..d. these days I've come across of DeepFake videos, and web scrapers, and Social Data Mining, automatign by using scripts, etc etc that I want to tackle small projects, like creating or using a web scraper or crawler [ start lokking into thses resources: [10 Best Open Source Web Scraper in 2020](https://www.octoparse.com/blog/10-best-open-source-web-scraper), [How to Build a Web Crawler– A Guide for Beginners](https://www.octoparse.com/blog/how-to-build-a-web-crawler-from-scratch-a-guide-for-beginners) [Apify - Extract Data form Any ](https://apify.com/), [Apify Technologies @ GitHub](https://github.com/apifytech), [ApifyTech @ GitHub](https://github.com/apifytech/apify-js) ], then doing social media mining and analysis [ [Mining Social Media](https://learning.oreilly.com/library/view/mining-social-media/9781098122621/xhtml/cover.xhtml) ], doing deepfake videos for fun, etc [ [FaceSwap](https://github.com/deepfakes/faceswap) & [DeepFaceLab](https://github.com/iperov/DeepFaceLab) ]     
+
+2. research and learn about the Terminal and XCode, and Homebrew. Try LinkedIn lEARN, YouTube Corey Schafer and many resources
+
+3. complete the Corey Shafer tutorial on [Homebrew](https://www.youtube.com/watch?v=SELYgZvAZbU) 
+
+4. check this other video y Corey Schafer on [How I Setup a New Development Machine - using scripts](https://www.youtube.com/watch?time_continue=1&v=kIdiWut8eD8&feature=emb_logo) to automate installs and Save Time 
+
+5. learn Homebrew with LinkedIn lEARN platform Corey Schafer You Tube videos / I want to get familiar with HOMEBREW which seems to be a package installer of MAC for the Terminal and see if I have the latest version and if not then see if I can update it. Check first for my LinkedIn LEARN resources as my experience with the Git Essential course was fantastic, and I should leverge my LinkedIn susbcription not only to learn but also if I can hang in my LinkedIn profile any courses finished at the LinkedIn LEARN platform I need to do so ...  
+
+6. Once I am familiar with Homebrew I want to research How To Update Git in both my laptops MAC and PC which as of today is 2.23.0 (my MacBook says my curr versions are git version 2.23.0 and 2.26.1.windows.1 respectively)
+
+7. Watch any tutorial related to Windows bash terminal 
+
+8. continue to sharpen my Git/GitHub skills 
+
+9.  watch and do some coding practice with a LikedIn Git Tutorial [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code) 
+* at the LinkedIn video course I saw that depending on how you installed Git initially you could access it thru the regular Windows Command Line, but since I couldn't access it thru my regular command line but only thru the Bash profile, I went ahead and erased my PC Git Installation, which also erased the Bash software profile, and re-installed again (per the video instructions) and as it turned out, I can't access my git commands thru the regular command line prompt but since I erased my Git, now I have the latest version of it in my Windows machine, which as of today is "git version 2.26.1.windows.1 
+
+
+10. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
+
+11. watch some more video tutorials that I have discovered on Git and choose another one to practice
+
+12. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
+
+
+--------------------------------------------------------
+
+
+### Day 14: Tuesday April 21, 2020
+
+
+#### **Today's Progress:** 
+
+* still going thru a super interesting LinkedIn LEARNING course [UNIX for Mac OS X Users](https://www.linkedin.com/learning/unix-for-mac-os-x-users/introduction) / finished Part 3 Working with files and directories
+* today I learned a lot of interesting stuff, like the kernel and the shell (both where demistified for me), also learned about the text editors, and learned how to actually use the "nano" editor
+
+
+#### **Insights or thoughts:**
+
+* I am trying to be done with my basic knowledge gaps as it relates to command line, Terminal, Bash Shell, homebrew etc, so I can resume my Git/GitHub learning and pratice
+* I continue to be laser focused on learning Git/GitHub, the Terminal, Bash, XCode, Homebrew and all things command line related both in my Macbook and my Surfacebook
 
 
 #### **Plans for tomorrow:**
@@ -57,7 +115,6 @@
 12. watch some more video tutorials that I have discovered on Git and choose another one to practice
 
 13. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
-
 
 
 --------------------------------------------------------
