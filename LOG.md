@@ -2,6 +2,107 @@
 # 1000 Days Of Code - Daily Log
 ### *My Career Change Journey into Software Development*
 
+This forward slashes // at any lines mean temporary, maybe incoherent content, but do not to earse yet as I make space or sense for it, so they remain on queue
+
+# These are the core activities NOW: 
+### (meditation, couch to 5K, typing, hackReactor, freeCode, w3c, finance, packt, work, headfirst, work, internetingIsHard, hackreactor)
+
+--------------------------------------------------------
+
+
+### Day 31: Friday May 8th, 2020
+
+
+#### **Today's Progress:** 
+
+* did one hour of typing practice with [Typesy](https://www.typesy.com/) 
+* did one hour of fCC Responsive Web Design, practicing forms, input, and regular buttons, and continued to practice within my own [freeCodeCamp-Projects-Certs](https://github.com/RichardAsencio/freeCodeCamp-Projects-Certs)
+* did two hours of [Head First HTML and CSS](https://learning.oreilly.com/library/view/head-first-html/9781449324469/). I was able to finish the first chapter.
+
+
+#### **Insights or thoughts:**
+
+* my tiping speed sucks and has not improved as much as I would like, I am trying to make it a habit to practice everyday, with intention and persistence to improve. The target typong speed is over 80 words per minute and right now I am well below 20
+
+* I really want to see how I can balance my time between 1-practicing JavaScript, which is the priority to be ready to take the TI as soon as the pandemic situation goes away and moneywise I return to normal and 2- being able to start building and creating stuff that I can share with others, like a designing and uploading webpages. This second activity will also allow me to start having personal projects to start my portfolio, start my personal blog, and start earning credentials for my LinkedIn profile such as the fcc, w3c and packt for front end skills. 
+
+
+
+
+// * I continue to be stuck just in the Hack Reactor material and havent had a chance to continue advancing on my other interests such as Git/GitHub / Web Dev - HTML/CSS and Python Webscrapping (Social Media Mining) thing  
+
+// * I need to focus first and foremost in my Hack Reactor / Galvanize resources and then in the other stuff 
+
+// * I am trying to be done with my basic knowledge gaps as it relates to command line, Terminal, Bash Shell, homebrew etc, so I can resume my Git/GitHub learning and pratice 
+
+// * continue on learning Git/GitHub, the Terminal, Bash, XCode, Homebrew and all things command line related both in my Macbook and my Surfacebook 
+
+// * I wonder if I can set up time aside to follow the Python, WebScrapper, Social Media Mining thing] 
+
+
+#### **Plans for tomorrow:**
+
+1. will do typing practice from Level 1 thru level 23 and then assess whta levels I need to keep practicing on.
+These levels are all for the HOME row and I want to be good at them before moving to top row 
+
+2. start with w3c web design course / update GitHub repo
+
+3. start with the Pack web desgin course / update GitHub repo
+
+4. start with interneting is hard / update GitHub repo
+
+4. catch up again with the Hack Reactor / update GitHub repo
+
+5. continue with fcc and headFirst / update GitHub repo
+
+
+// 1.  I WILL RESTART with the Galvanize curriculum / check on my GitHub repo to follow the PATH Timeline 
+
+// 2. what's the file gitignore for? should I have one on each of my repos?
+  
+// 3. return to [UNIX for Mac OS X Users](https://www.linkedin.com/learning/unix-for-mac-os-x-users/introduction) to Part Three Finder Aliases in UNIX and try to finish this part and leave part four of Sunday, and succesively each part to be done per day (the course has  9 parts) ... once one part is covered move to Typing, Hack Reactor, Git/GiyHub, Web Dev, Web Design, and Python Webscrapers 
+
+// 4. I will continue to include in this log the agenda and all activities actually performed and related to my Software Career journey, even if it is not coding per se, so that as I get started in my day, I start writing my notes here of all I did during the day that is related to this career-change journey; from job search efforts, social media resources I follow, to reading related books, related TV series, people I get to know, course started and finished,  conferences attended, etc
+
+//5. continue reading [Mining Social Media](https://learning.oreilly.com/library/view/mining-social-media/9781098122621/xhtml/cover.xhtml)   
+
+    ## Draft of Daily Agenda: 
+
+    * *TYPING* / - practice typing
+
+    * *HACK REACTOR* / - do a minimum amount of three hours of my Hack Reactor curriculum, and then go thru all my Udemy JavaScript courses, then do Head First JavaScript, then Eloquent JavaScript, then do Watch and Code basic/free portion by Gordon Zhu, and then enr0ll into his paid version of the course Gordon Zhu Watch & Code
+
+    * *GIT-GITHUB* / - 1 hour of practice with any Git/GitHub course with the goal of starting to contrinute to an open source project / also read my GitHub For Dummies book
+
+    * *WEB DEV - HTML & CSS & JavaScript* / - 2 hours of any HTML/CSS. Start with Head First HTML, and then fCC's Responsive Web Design certification, then W3School HTML and CSS certificates, Packt HTML & CSS certification, LinkedIn courses to hang up in my LinkedIn profile, then do Head First HTML5, then my Udemy Web Dev & Design courses. When done with these courses dive into my many books of HTML/CSS & JavaScript
+
+    * *WEB DESIGN - UI & UX* / - 1 hour of my Designer Udemy courses   
+    
+    * *PYTHON* / - I want to include Python in my daily activities (do my self taught course) because I am so interested in Data Science (data mining & Analysis), Machine Learning, Deep Learning, AI ..d. these days I've come across of DeepFake videos, and web scrapers, and Social Data Mining, automatign by using scripts, etc etc that I want to tackle small projects, like creating or using a web scraper or crawler [ start lokking into thses resources: [10 Best Open Source Web Scraper in 2020](https://www.octoparse.com/blog/10-best-open-source-web-scraper), [How to Build a Web Crawler– A Guide for Beginners](https://www.octoparse.com/blog/how-to-build-a-web-crawler-from-scratch-a-guide-for-beginners) [Apify - Extract Data form Any ](https://apify.com/), [Apify Technologies @ GitHub](https://github.com/apifytech), [ApifyTech @ GitHub](https://github.com/apifytech/apify-js) ], then doing social media mining and analysis [ [Mining Social Media](https://learning.oreilly.com/library/view/mining-social-media/9781098122621/xhtml/cover.xhtml) ], doing deepfake videos for fun, etc [ [FaceSwap](https://github.com/deepfakes/faceswap) & [DeepFaceLab](https://github.com/iperov/DeepFaceLab) ]     
+
+// 6. research and learn about the Terminal and XCode, and Homebrew. Try LinkedIn lEARN, YouTube Corey Schafer and many resources
+
+// 7. complete the Corey Shafer tutorial on [Homebrew](https://www.youtube.com/watch?v=SELYgZvAZbU) 
+
+// 8. check this other video y Corey Schafer on [How I Setup a New Development Machine - using scripts](https://www.youtube.com/watch?time_continue=1&v=kIdiWut8eD8&feature=emb_logo) to automate installs and Save Time 
+
+// 9. learn Homebrew with LinkedIn lEARN platform Corey Schafer You Tube videos / I want to get familiar with HOMEBREW which seems to be a package installer of MAC for the Terminal and see if I have the latest version and if not then see if I can update it. Check first for my LinkedIn LEARN resources as my experience with the Git Essential course was fantastic, and I should leverge my LinkedIn susbcription not only to learn but also if I can hang in my LinkedIn profile any courses finished at the LinkedIn LEARN platform I need to do so ...  
+
+// 10. Once I am familiar with Homebrew I want to research How To Update Git in both my laptops MAC and PC which as of today is 2.23.0 (my MacBook says my curr versions are git version 2.23.0 and 2.26.1.windows.1 respectively)
+
+// 11. Watch any tutorial related to Windows bash terminal 
+
+// 12. continue to sharpen my Git/GitHub skills, this time go back and review Git/GitHub forking, to fork a very nice repo that Robert Groves starred called [Xtremilicious ProjectLearn-Project-Based-Learning](https://github.com/Xtremilicious/ProjectLearn-Project-Based-Learning)
+
+// 13.  watch and do some coding practice with a LikedIn Git Tutorial [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code) 
+// * at the LinkedIn video course I saw that depending on how you installed Git initially you could access it thru the regular Windows Command Line, but since I couldn't access it thru my regular command line but only thru the Bash profile, I went ahead and erased my PC Git Installation, which also erased the Bash software profile, and re-installed again (per the video instructions) and as it turned out, I can't access my git commands thru the regular command line prompt but since I erased my Git, now I have the latest version of it in my Windows machine, which as of today is "git version 2.26.1.windows.1 
+
+// 14. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
+
+// 15. watch some more video tutorials that I have discovered on Git and choose another one to practice
+
+// 16. create practice repo related to my HTML & CSS learning effort tru this resource: [Head First HTML & CSS, 2nd Edition](https://learning.oreilly.com/library/view/head-first-html/9781449324469/)
+
 
 --------------------------------------------------------
 
