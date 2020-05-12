@@ -11,6 +11,95 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 --------------------------------------------------------
 
 
+### Day 34: Monday May 11th, 2020
+
+#### **Today's Progress:** 
+
+* did typing practice 
+* started Chapter 2 of Packt> HTML & CSS Workshop until Wireframes 
+
+
+#### **Insights or thoughts:**
+
+* typing speed is something that I see as a very simple but important skill, tyoing speed will not make me a birllina coder but will allow me to work faster, move from a to b much more faster, it could at least keep pace with my mind
+
+* I should CONTINUE to hammer down layout and structure concepts, before mocing to anything else, and this [Adobe](https://xd.adobe.com/ideas/principles/web-design/11-website-layouts-that-made-content-shine-in-2019/) article on 11 website layouts can provide a guide for me to start practicing laying-out sites like these. I would rather do not move forward until I have a good grast of this strcuture and layout thing, as i the past I 've gone thru many HTML CSS courses but cant seem to understand in a practical manner all the boxes, float, felx, grid, bootstrap, felx, responsive web design thing ... Also take a look at this [Home Page Designs](https://www.websitebuilderexpert.com/designing-websites/awesome-home-page-design-layouts/)
+
+* I am very optimistic about making progress in learning HTML & CSS to finally start creating and deploying webpages as part of my portfolio and to have plain fun doing so
+
+
+#### **Plans for tomorrow:**
+
+* Typing Practice / still at Home Row / go thru each course of the3 Home Row and only when I have done it three times in a row at decent speed perfect then I can mark it complete and move on to the next one
+
+
+
+
+
+// 1. will do typing practice from Level 1 thru level 23 and then assess whta levels I need to keep practicing on.These levels are all for the HOME row and I want to be good at them before moving to top row 
+
+2. start with w3c web design course / update GitHub repo
+
+3. start with interneting is hard / update GitHub repo
+
+4. catch up again with the Hack Reactor / update GitHub repo
+
+5. continue with fcc / update GitHub repo
+
+6. continue with headfirst / update GitHub repo 
+
+7. continue with the Pack web design course / update GitHub repo
+
+
+
+
+// 1. what's the file gitignore for? should I have one on each of my repos?
+  
+// 2. return to [UNIX for Mac OS X Users](https://www.linkedin.com/learning/unix-for-mac-os-x-users/introduction) to Part Three Finder Aliases in UNIX and try to finish this part and leave part four of Sunday, and succesively each part to be done per day (the course has  9 parts) ... once one part is covered move to Typing, Hack Reactor, Git/GiyHub, Web Dev, Web Design, and Python Webscrapers 
+
+// 3. I will continue to include in this log the agenda and all activities actually performed and related to my Software Career journey, even if it is not coding per se, so that as I get started in my day, I start writing my notes here of all I did during the day that is related to this career-change journey; from job search efforts, social media resources I follow, to reading related books, related TV series, people I get to know, course started and finished,  conferences attended, etc
+
+//4. continue reading [Mining Social Media](https://learning.oreilly.com/library/view/mining-social-media/9781098122621/xhtml/cover.xhtml)   
+
+    ## Draft of Daily Agenda: 
+
+    * *TYPING* / - practice typing
+
+    * *HACK REACTOR* / - do a minimum amount of three hours of my Hack Reactor curriculum, and then go thru all my Udemy JavaScript courses, then do Head First JavaScript, then Eloquent JavaScript, then do Watch and Code basic/free portion by Gordon Zhu, and then enr0ll into his paid version of the course Gordon Zhu Watch & Code
+
+    * *GIT-GITHUB* / - 1 hour of practice with any Git/GitHub course with the goal of starting to contrinute to an open source project / also read my GitHub For Dummies book
+
+    * *WEB DEV - HTML & CSS & JavaScript* / - 2 hours of any HTML/CSS. Start with Head First HTML, and then fCC's Responsive Web Design certification, then W3School HTML and CSS certificates, Packt HTML & CSS certification, LinkedIn courses to hang up in my LinkedIn profile, then do Head First HTML5, then my Udemy Web Dev & Design courses. When done with these courses dive into my many books of HTML/CSS & JavaScript
+
+    * *WEB DESIGN - UI & UX* / - 1 hour of my Designer Udemy courses   
+    
+    * *PYTHON* / - I want to include Python in my daily activities (do my self taught course) because I am so interested in Data Science (data mining & Analysis), Machine Learning, Deep Learning, AI ..d. these days I've come across of DeepFake videos, and web scrapers, and Social Data Mining, automatign by using scripts, etc etc that I want to tackle small projects, like creating or using a web scraper or crawler [ start lokking into thses resources: [10 Best Open Source Web Scraper in 2020](https://www.octoparse.com/blog/10-best-open-source-web-scraper), [How to Build a Web Crawler– A Guide for Beginners](https://www.octoparse.com/blog/how-to-build-a-web-crawler-from-scratch-a-guide-for-beginners) [Apify - Extract Data form Any ](https://apify.com/), [Apify Technologies @ GitHub](https://github.com/apifytech), [ApifyTech @ GitHub](https://github.com/apifytech/apify-js) ], then doing social media mining and analysis [ [Mining Social Media](https://learning.oreilly.com/library/view/mining-social-media/9781098122621/xhtml/cover.xhtml) ], doing deepfake videos for fun, etc [ [FaceSwap](https://github.com/deepfakes/faceswap) & [DeepFaceLab](https://github.com/iperov/DeepFaceLab) ]     
+
+// 5. research and learn about the Terminal and XCode, and Homebrew. Try LinkedIn lEARN, YouTube Corey Schafer and many resources
+
+// 6. complete the Corey Shafer tutorial on [Homebrew](https://www.youtube.com/watch?v=SELYgZvAZbU) 
+
+// 7. check this other video y Corey Schafer on [How I Setup a New Development Machine - using scripts](https://www.youtube.com/watch?time_continue=1&v=kIdiWut8eD8&feature=emb_logo) to automate installs and Save Time 
+
+// 8. learn Homebrew with LinkedIn lEARN platform Corey Schafer You Tube videos / I want to get familiar with HOMEBREW which seems to be a package installer of MAC for the Terminal and see if I have the latest version and if not then see if I can update it. Check first for my LinkedIn LEARN resources as my experience with the Git Essential course was fantastic, and I should leverge my LinkedIn susbcription not only to learn but also if I can hang in my LinkedIn profile any courses finished at the LinkedIn LEARN platform I need to do so ...  
+
+// 9. Once I am familiar with Homebrew I want to research How To Update Git in both my laptops MAC and PC which as of today is 2.23.0 (my MacBook says my curr versions are git version 2.23.0 and 2.26.1.windows.1 respectively)
+
+// 10. Watch any tutorial related to Windows bash terminal 
+
+// 11. continue to sharpen my Git/GitHub skills, this time go back and review Git/GitHub forking, to fork a very nice repo that Robert Groves starred called [Xtremilicious ProjectLearn-Project-Based-Learning](https://github.com/Xtremilicious/ProjectLearn-Project-Based-Learning)
+
+// 12.  watch and do some coding practice with a LikedIn Git Tutorial [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code) 
+// * at the LinkedIn video course I saw that depending on how you installed Git initially you could access it thru the regular Windows Command Line, but since I couldn't access it thru my regular command line but only thru the Bash profile, I went ahead and erased my PC Git Installation, which also erased the Bash software profile, and re-installed again (per the video instructions) and as it turned out, I can't access my git commands thru the regular command line prompt but since I erased my Git, now I have the latest version of it in my Windows machine, which as of today is "git version 2.26.1.windows.1 
+
+// 13. read and follow this [Medium](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) article that illustrates on a step by step fashion a certin type of collaboration workflow.
+
+// 14. watch some more video tutorials that I have discovered on Git and choose another one to practice
+
+
+--------------------------------------------------------
+
+
 ### Day 33: Sunday May 10th, 2020
 
 
