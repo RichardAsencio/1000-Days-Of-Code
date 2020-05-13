@@ -4,8 +4,47 @@
 
 This forward slashes // at any lines mean temporary, maybe incoherent content, but do not to earse yet as I make space or sense for it, so they remain on queue
 
-# These are the core activities NOW: 
-### (meditation, couch to 5K, typing, hackReactor, freeCode, w3c, finance, packt, work, headfirst, work, internetingIsHard, hackreactor)
+# These are my current daily core activities: 
+#### (meditation, couch to 5K & news podcast, the economist morning espresso, the daily stoic, typing practice, 5 passwords, 5 notes, 5 pictures, finance, hack-reactor, internetingIsHard, headfirst, freeCode, packt, w3c, adobeXD, appenWork, lionbridgeWork, qasWork) 
+
+
+--------------------------------------------------------
+
+
+### Day 36: Wednesday May 13th, 2020
+
+#### **Today's Progress:** 
+
+* did typing practice with *Typesy*
+* completed Chapter 2 of *Packt> HTML & CSS Workshop* 
+* got started with w3schools *Learn HTML* 
+* got started with MDN *Learn Web Development*
+
+
+#### **Insights or thoughts:**
+
+* today I feel a little overwhelmed when I look at all the content that I want to cover nad learn within the timeframe I am imposing upon me 
+
+
+#### **Plans for tomorrow:**
+
+1. do my typing practice with [Typesy](https://www.typesy.com/type/home) / I am still at Home Row / go thru each course of the Home Row and only when I have done it three times in a row at decent speed perfect then I can mark it complete and move on to the next one. Will do typing practice from Level 1 thru level 23 and then assess whta levels I need to keep practicing on. These levels are all for the HOME row and I want to be good at them before moving to top row 
+
+2. do Hack Reactor/Galvanize thru the [G-lEARN](https://auth.galvanize.com/sign_in) and check on my [Hack-Reactor-GALVANIZE GitHub repo](https://github.com/RichardAsencio/Hack-Reactor-GALVANIZE) to update my progress 
+
+3. start with InternetingIsHard / create a GitHub repo
+
+4. do [Head-First HTML & CSS](https://learning.oreilly.com/library/view/head-first-html/9781449324469/index.html) and check on my [Head-First HTML & CSS repo](https://github.com/RichardAsencio/headFirst-HTML-and-CSS) to update my progress
+
+5. do [freeCodeCamp Web Responsive Curriculum](https://www.freecodecamp.org/learn/) and check on my [freeCodeCamp-Projects-CERTS](https://github.com/RichardAsencio/freeCodeCamp-Projects-Certs) to update my progress
+
+6. do the [Packt> HTML & CSS Workshop](https://courses.packtpub.com/enrollments) and check on my [Packt Git Hub repo](https://github.com/RichardAsencio/packt-HTML-CSS-Workshop) to update my progress
+
+7. do the [w3Schools](https://www.w3schools.com/html/default.asp) and check on my [GitHub repo w-3-schools-CERTS](https://github.com/RichardAsencio/w3schools-CERTS) to update my progress / continue with w3c HTML course - reached Styles but want to review again from Basic on ... this time start creating folders and files in my GitHub repo as I progress thru all the topics 
+
+8. do the [MDN Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn) and check on my []() to update my progress. 
+
+9. do an Adobe Creative Suite course / start with AdobeXD / create a repo for my Adobe Suite Stuff 
 
 
 --------------------------------------------------------
@@ -61,19 +100,7 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 
 //4. continue reading [Mining Social Media](https://learning.oreilly.com/library/view/mining-social-media/9781098122621/xhtml/cover.xhtml)   
 
-    ## Draft of Daily Agenda: 
-
-    * *TYPING* / - practice typing
-
-    * *HACK REACTOR* / - do a minimum amount of three hours of my Hack Reactor curriculum, and then go thru all my Udemy JavaScript courses, then do Head First JavaScript, then Eloquent JavaScript, then do Watch and Code basic/free portion by Gordon Zhu, and then enr0ll into his paid version of the course Gordon Zhu Watch & Code
-
-    * *GIT-GITHUB* / - 1 hour of practice with any Git/GitHub course with the goal of starting to contrinute to an open source project / also read my GitHub For Dummies book
-
-    * *WEB DEV - HTML & CSS & JavaScript* / - 2 hours of any HTML/CSS. Start with Head First HTML, and then fCC's Responsive Web Design certification, then W3School HTML and CSS certificates, Packt HTML & CSS certification, LinkedIn courses to hang up in my LinkedIn profile, then do Head First HTML5, then my Udemy Web Dev & Design courses. When done with these courses dive into my many books of HTML/CSS & JavaScript
-
-    * *WEB DESIGN - UI & UX* / - 1 hour of my Designer Udemy courses   
     
-    * *PYTHON* / - I want to include Python in my daily activities (do my self taught course) because I am so interested in Data Science (data mining & Analysis), Machine Learning, Deep Learning, AI ..d. these days I've come across of DeepFake videos, and web scrapers, and Social Data Mining, automatign by using scripts, etc etc that I want to tackle small projects, like creating or using a web scraper or crawler [ start lokking into thses resources: [10 Best Open Source Web Scraper in 2020](https://www.octoparse.com/blog/10-best-open-source-web-scraper), [How to Build a Web Crawler– A Guide for Beginners](https://www.octoparse.com/blog/how-to-build-a-web-crawler-from-scratch-a-guide-for-beginners) [Apify - Extract Data form Any ](https://apify.com/), [Apify Technologies @ GitHub](https://github.com/apifytech), [ApifyTech @ GitHub](https://github.com/apifytech/apify-js) ], then doing social media mining and analysis [ [Mining Social Media](https://learning.oreilly.com/library/view/mining-social-media/9781098122621/xhtml/cover.xhtml) ], doing deepfake videos for fun, etc [ [FaceSwap](https://github.com/deepfakes/faceswap) & [DeepFaceLab](https://github.com/iperov/DeepFaceLab) ]     
 
 // 5. research and learn about the Terminal and XCode, and Homebrew. Try LinkedIn lEARN, YouTube Corey Schafer and many resources
 
@@ -150,19 +177,7 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 
 //4. continue reading [Mining Social Media](https://learning.oreilly.com/library/view/mining-social-media/9781098122621/xhtml/cover.xhtml)   
 
-    ## Draft of Daily Agenda: 
-
-    * *TYPING* / - practice typing
-
-    * *HACK REACTOR* / - do a minimum amount of three hours of my Hack Reactor curriculum, and then go thru all my Udemy JavaScript courses, then do Head First JavaScript, then Eloquent JavaScript, then do Watch and Code basic/free portion by Gordon Zhu, and then enr0ll into his paid version of the course Gordon Zhu Watch & Code
-
-    * *GIT-GITHUB* / - 1 hour of practice with any Git/GitHub course with the goal of starting to contrinute to an open source project / also read my GitHub For Dummies book
-
-    * *WEB DEV - HTML & CSS & JavaScript* / - 2 hours of any HTML/CSS. Start with Head First HTML, and then fCC's Responsive Web Design certification, then W3School HTML and CSS certificates, Packt HTML & CSS certification, LinkedIn courses to hang up in my LinkedIn profile, then do Head First HTML5, then my Udemy Web Dev & Design courses. When done with these courses dive into my many books of HTML/CSS & JavaScript
-
-    * *WEB DESIGN - UI & UX* / - 1 hour of my Designer Udemy courses   
     
-    * *PYTHON* / - I want to include Python in my daily activities (do my self taught course) because I am so interested in Data Science (data mining & Analysis), Machine Learning, Deep Learning, AI ..d. these days I've come across of DeepFake videos, and web scrapers, and Social Data Mining, automatign by using scripts, etc etc that I want to tackle small projects, like creating or using a web scraper or crawler [ start lokking into thses resources: [10 Best Open Source Web Scraper in 2020](https://www.octoparse.com/blog/10-best-open-source-web-scraper), [How to Build a Web Crawler– A Guide for Beginners](https://www.octoparse.com/blog/how-to-build-a-web-crawler-from-scratch-a-guide-for-beginners) [Apify - Extract Data form Any ](https://apify.com/), [Apify Technologies @ GitHub](https://github.com/apifytech), [ApifyTech @ GitHub](https://github.com/apifytech/apify-js) ], then doing social media mining and analysis [ [Mining Social Media](https://learning.oreilly.com/library/view/mining-social-media/9781098122621/xhtml/cover.xhtml) ], doing deepfake videos for fun, etc [ [FaceSwap](https://github.com/deepfakes/faceswap) & [DeepFaceLab](https://github.com/iperov/DeepFaceLab) ]     
 
 // 5. research and learn about the Terminal and XCode, and Homebrew. Try LinkedIn lEARN, YouTube Corey Schafer and many resources
 
@@ -229,19 +244,7 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 
 //4. continue reading [Mining Social Media](https://learning.oreilly.com/library/view/mining-social-media/9781098122621/xhtml/cover.xhtml)   
 
-    ## Draft of Daily Agenda: 
-
-    * *TYPING* / - practice typing
-
-    * *HACK REACTOR* / - do a minimum amount of three hours of my Hack Reactor curriculum, and then go thru all my Udemy JavaScript courses, then do Head First JavaScript, then Eloquent JavaScript, then do Watch and Code basic/free portion by Gordon Zhu, and then enr0ll into his paid version of the course Gordon Zhu Watch & Code
-
-    * *GIT-GITHUB* / - 1 hour of practice with any Git/GitHub course with the goal of starting to contrinute to an open source project / also read my GitHub For Dummies book
-
-    * *WEB DEV - HTML & CSS & JavaScript* / - 2 hours of any HTML/CSS. Start with Head First HTML, and then fCC's Responsive Web Design certification, then W3School HTML and CSS certificates, Packt HTML & CSS certification, LinkedIn courses to hang up in my LinkedIn profile, then do Head First HTML5, then my Udemy Web Dev & Design courses. When done with these courses dive into my many books of HTML/CSS & JavaScript
-
-    * *WEB DESIGN - UI & UX* / - 1 hour of my Designer Udemy courses   
     
-    * *PYTHON* / - I want to include Python in my daily activities (do my self taught course) because I am so interested in Data Science (data mining & Analysis), Machine Learning, Deep Learning, AI ..d. these days I've come across of DeepFake videos, and web scrapers, and Social Data Mining, automatign by using scripts, etc etc that I want to tackle small projects, like creating or using a web scraper or crawler [ start lokking into thses resources: [10 Best Open Source Web Scraper in 2020](https://www.octoparse.com/blog/10-best-open-source-web-scraper), [How to Build a Web Crawler– A Guide for Beginners](https://www.octoparse.com/blog/how-to-build-a-web-crawler-from-scratch-a-guide-for-beginners) [Apify - Extract Data form Any ](https://apify.com/), [Apify Technologies @ GitHub](https://github.com/apifytech), [ApifyTech @ GitHub](https://github.com/apifytech/apify-js) ], then doing social media mining and analysis [ [Mining Social Media](https://learning.oreilly.com/library/view/mining-social-media/9781098122621/xhtml/cover.xhtml) ], doing deepfake videos for fun, etc [ [FaceSwap](https://github.com/deepfakes/faceswap) & [DeepFaceLab](https://github.com/iperov/DeepFaceLab) ]     
 
 // 5. research and learn about the Terminal and XCode, and Homebrew. Try LinkedIn lEARN, YouTube Corey Schafer and many resources
 
@@ -331,19 +334,7 @@ These levels are all for the HOME row and I want to be good at them before movin
 
 //5. continue reading [Mining Social Media](https://learning.oreilly.com/library/view/mining-social-media/9781098122621/xhtml/cover.xhtml)   
 
-    ## Draft of Daily Agenda: 
-
-    * *TYPING* / - practice typing
-
-    * *HACK REACTOR* / - do a minimum amount of three hours of my Hack Reactor curriculum, and then go thru all my Udemy JavaScript courses, then do Head First JavaScript, then Eloquent JavaScript, then do Watch and Code basic/free portion by Gordon Zhu, and then enr0ll into his paid version of the course Gordon Zhu Watch & Code
-
-    * *GIT-GITHUB* / - 1 hour of practice with any Git/GitHub course with the goal of starting to contrinute to an open source project / also read my GitHub For Dummies book
-
-    * *WEB DEV - HTML & CSS & JavaScript* / - 2 hours of any HTML/CSS. Start with Head First HTML, and then fCC's Responsive Web Design certification, then W3School HTML and CSS certificates, Packt HTML & CSS certification, LinkedIn courses to hang up in my LinkedIn profile, then do Head First HTML5, then my Udemy Web Dev & Design courses. When done with these courses dive into my many books of HTML/CSS & JavaScript
-
-    * *WEB DESIGN - UI & UX* / - 1 hour of my Designer Udemy courses   
     
-    * *PYTHON* / - I want to include Python in my daily activities (do my self taught course) because I am so interested in Data Science (data mining & Analysis), Machine Learning, Deep Learning, AI ..d. these days I've come across of DeepFake videos, and web scrapers, and Social Data Mining, automatign by using scripts, etc etc that I want to tackle small projects, like creating or using a web scraper or crawler [ start lokking into thses resources: [10 Best Open Source Web Scraper in 2020](https://www.octoparse.com/blog/10-best-open-source-web-scraper), [How to Build a Web Crawler– A Guide for Beginners](https://www.octoparse.com/blog/how-to-build-a-web-crawler-from-scratch-a-guide-for-beginners) [Apify - Extract Data form Any ](https://apify.com/), [Apify Technologies @ GitHub](https://github.com/apifytech), [ApifyTech @ GitHub](https://github.com/apifytech/apify-js) ], then doing social media mining and analysis [ [Mining Social Media](https://learning.oreilly.com/library/view/mining-social-media/9781098122621/xhtml/cover.xhtml) ], doing deepfake videos for fun, etc [ [FaceSwap](https://github.com/deepfakes/faceswap) & [DeepFaceLab](https://github.com/iperov/DeepFaceLab) ]     
 
 // 6. research and learn about the Terminal and XCode, and Homebrew. Try LinkedIn lEARN, YouTube Corey Schafer and many resources
 
@@ -428,19 +419,8 @@ These levels are all for the HOME row and I want to be good at them before movin
 
 //5. continue reading [Mining Social Media](https://learning.oreilly.com/library/view/mining-social-media/9781098122621/xhtml/cover.xhtml)   
 
-    ## Draft of Daily Agenda: 
-
-    * *TYPING* / - practice typing
-
-    * *HACK REACTOR* / - do a minimum amount of three hours of my Hack Reactor curriculum, and then go thru all my Udemy JavaScript courses, then do Head First JavaScript, then Eloquent JavaScript, then do Watch and Code basic/free portion by Gordon Zhu, and then enr0ll into his paid version of the course Gordon Zhu Watch & Code
-
-    * *GIT-GITHUB* / - 1 hour of practice with any Git/GitHub course with the goal of starting to contrinute to an open source project / also read my GitHub For Dummies book
-
-    * *WEB DEV - HTML & CSS & JavaScript* / - 2 hours of any HTML/CSS. Start with Head First HTML, and then fCC's Responsive Web Design certification, then W3School HTML and CSS certificates, Packt HTML & CSS certification, LinkedIn courses to hang up in my LinkedIn profile, then do Head First HTML5, then my Udemy Web Dev & Design courses. When done with these courses dive into my many books of HTML/CSS & JavaScript
-
-    * *WEB DESIGN - UI & UX* / - 1 hour of my Designer Udemy courses   
     
-    * *PYTHON* / - I want to include Python in my daily activities (do my self taught course) because I am so interested in Data Science (data mining & Analysis), Machine Learning, Deep Learning, AI ..d. these days I've come across of DeepFake videos, and web scrapers, and Social Data Mining, automatign by using scripts, etc etc that I want to tackle small projects, like creating or using a web scraper or crawler [ start lokking into thses resources: [10 Best Open Source Web Scraper in 2020](https://www.octoparse.com/blog/10-best-open-source-web-scraper), [How to Build a Web Crawler– A Guide for Beginners](https://www.octoparse.com/blog/how-to-build-a-web-crawler-from-scratch-a-guide-for-beginners) [Apify - Extract Data form Any ](https://apify.com/), [Apify Technologies @ GitHub](https://github.com/apifytech), [ApifyTech @ GitHub](https://github.com/apifytech/apify-js) ], then doing social media mining and analysis [ [Mining Social Media](https://learning.oreilly.com/library/view/mining-social-media/9781098122621/xhtml/cover.xhtml) ], doing deepfake videos for fun, etc [ [FaceSwap](https://github.com/deepfakes/faceswap) & [DeepFaceLab](https://github.com/iperov/DeepFaceLab) ]     
+    
 
 // 6. research and learn about the Terminal and XCode, and Homebrew. Try LinkedIn lEARN, YouTube Corey Schafer and many resources
 
