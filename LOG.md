@@ -7,6 +7,23 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 # These are my current daily core activities: 
 #### (meditation, couch to 5K & news podcast, the economist morning espresso, the daily stoic, typing practice, 5 passwords, 5 notes, 5 pictures, finance, hack-reactor, internetingIsHard, headfirst, freeCode, packt, w3c, adobeXD, appenWork, lionbridgeWork, qasWork) 
 
+* Check this resources sponsored by Mozilla:
+1. Check this [guy](https://jadjoubran.io/) and his [courses](https://learnprogramming.online/?utm_source=jadjoubran.io)
+2. And his courses: 1-[Learn Programming](https://learnprogramming.online/app.html?id=597), 2-[Learn JavaScript](https://learnjavascript.online/app.html) 3-[React Tutorial](https://react-tutorial.app/app.html?id=327) 4-[Build Performant PWAs](https://pwaworkshop.com/)
+
+3. I need a project planner software, so why not try to choose a project planner and start using it to have an additional skill before looking for a job? Why not look and research which are the most commonly used in web design and soft dev, like Trello, Asana, Basecamp, or any others ...
+
+
+--------------------------------------------------------
+
+
+### Day 37: Thursday May 14th, 2020
+
+#### **Today's Progress:** 
+
+* did typing practice with *Typesy* / level 1 perfect once and level 2 not perfect yet
+* did MDN Learn Web Dev 
+
 
 --------------------------------------------------------
 
@@ -32,6 +49,8 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 
 2. do Hack Reactor/Galvanize thru the [G-lEARN](https://auth.galvanize.com/sign_in) and check on my [Hack-Reactor-GALVANIZE GitHub repo](https://github.com/RichardAsencio/Hack-Reactor-GALVANIZE) to update my progress 
 
+4. Try this [Learn Programming](https://learnprogramming.online/app.html?id=597) for half an hour and this other one for one more half an hour [Learn JavaScript](https://learnjavascript.online/app.html) and lets see how good this contnet is and if it warrants my time and at the end of the free trial, pay for the full material
+
 3. start with InternetingIsHard / create a GitHub repo
 
 4. do [Head-First HTML & CSS](https://learning.oreilly.com/library/view/head-first-html/9781449324469/index.html) and check on my [Head-First HTML & CSS repo](https://github.com/RichardAsencio/headFirst-HTML-and-CSS) to update my progress
@@ -45,6 +64,8 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 8. do the [MDN Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn) and check on my []() to update my progress. 
 
 9. do an Adobe Creative Suite course / start with AdobeXD / create a repo for my Adobe Suite Stuff 
+
+10. look for the Late developer thing (the domain I bought) and the FreeCode camp virtual conf partner that hosts blogs etc, 
 
 
 --------------------------------------------------------
