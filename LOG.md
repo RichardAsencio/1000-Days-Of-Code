@@ -17,6 +17,17 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 --------------------------------------------------------
 
 
+### Day 38: Friday May 15th, 2020
+
+#### **Today's Progress:** 
+
+* did typing practice with *Typesy* / level 1 perfect once and level 2 not perfect yet
+* did MDN Learn Web Dev 
+
+
+--------------------------------------------------------
+
+
 ### Day 37: Thursday May 14th, 2020
 
 #### **Today's Progress:** 
