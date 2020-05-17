@@ -13,6 +13,20 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 
 3. I need a project planner software, so why not try to choose a project planner and start using it to have an additional skill before looking for a job? Why not look and research which are the most commonly used in web design and soft dev, like Trello, Asana, Basecamp, or any others ...
 
+--------------------------------------------------------
+
+### Day 39: Saturday May 16th, 2020
+
+#### **Today's Progress:** 
+*  practiced Hack Reactor JavaScript Arrays Methods
+
+
+#### **Insights or thoughts:**
+* work is sucking up a lot of my time, but I still manage to at least commit one hour a day to code something, even a Hello World html doc. 
+* my workload will remain heavy very likely for one more week, so I need jsut to remamin committed to my one hour a day coding 
+
+#### **Plans for tomorrow:**
+* make sure not to miss my one hour a day code, most likely do some JavaScript coding challenges 
 
 --------------------------------------------------------
 
@@ -21,9 +35,11 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 
 #### **Today's Progress:** 
 
-* did typing practice with *Typesy* / level 1 perfect once and level 2 not perfect yet
-* did MDN Learn Web Dev 
+* did typing practice with *Typesy* / 
+* did MDN Learn Web Dev / kep reading and fiddling in HTML simnple docs 
 
+#### **Insights or thoughts:**
+#### **Plans for tomorrow:**
 
 --------------------------------------------------------
 
@@ -35,6 +51,8 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 * did typing practice with *Typesy* / level 1 perfect once and level 2 not perfect yet
 * did MDN Learn Web Dev 
 
+#### **Insights or thoughts:**
+#### **Plans for tomorrow:**
 
 --------------------------------------------------------
 
