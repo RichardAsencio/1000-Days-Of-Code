@@ -17,10 +17,26 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 --------------------------------------------------------
 
 
-### Day 42: Tuesday 19th, 2020
+### Day 43: Wednesday May 20th, 2020
   
 #### **Today's Progress:** 
-* reviewed and practiced layout HTML concepts such as float, flexbox and grid 
+* Hack-Reactor/Galvanize / shoring up my materials ... 
+
+#### **Insights or thoughts:**
+* 
+
+
+#### **Plans for tomorrow:**
+* 
+
+
+--------------------------------------------------------
+
+
+### Day 42: Tuesday May 19th, 2020
+  
+#### **Today's Progress:** 
+* practiced Hack Reactor JavaScript Objects & Arrays Methods
 
 
 #### **Insights or thoughts:**
@@ -29,13 +45,13 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 * my workload will remain heavy very likely for one more week, so I need jsut to remamin committed to my one hour a day coding 
 
 #### **Plans for tomorrow:**
-* do JavaScript Arrays and Objects methods practice 
+* go back to the Web Dev courses I am following 
 
 
 --------------------------------------------------------
 
 
-### Day 41: Monday 18th, 2020
+### Day 41: Monday May 18th, 2020
   
 #### **Today's Progress:** 
 * reviewed and practiced layout HTML concepts such as float, flexbox and grid 
