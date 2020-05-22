@@ -17,6 +17,25 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 --------------------------------------------------------
 
 
+### Day 44: Thursday May 21st, 2020
+  
+#### **Today's Progress:** 
+* Out of tiredness, apathy and boredom with the usual learning pace for HTML & CSS I decided to try one in a million of courses that have seen like: "build a webpage in no time" type of video-course, so I started the [HTML5 & CSS DEvelopment: Learn How To Build a Professional Website](https://www.youtube.com/watch?v=5bMdjkfvONE). The course has a time duration of 1 hour and 38 minutes but I was able to only progress until minute number 46. I have enjoyend and learned so much that I intend to continue tomorrow. 
+
+
+#### **Insights or thoughts:**
+* project type of learning style has started to gain some appeal in me, particularly if the teacher and the learning resources and material are good enough
+
+* I think JavaScript can wait one or two days of rest, for me to finish this course. 
+
+
+#### **Plans for tomorrow:**
+* continue with this course ...  
+
+
+--------------------------------------------------------
+
+
 ### Day 43: Wednesday May 20th, 2020
   
 #### **Today's Progress:** 
