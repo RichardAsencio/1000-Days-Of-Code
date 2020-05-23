@@ -17,6 +17,24 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 --------------------------------------------------------
 
 
+### Day 45: Friday May 22nd, 2020
+*posted this on Saturday May 23rd, 2020*
+
+#### **Today's Progress:** 
+* almost video course [HTML5 & CSS DEvelopment: Learn How To Build a Professional Website](https://www.youtube.com/watch?v=5bMdjkfvONE).  
+
+
+#### **Insights or thoughts:**
+* I definitely enjoyed and learned a lot with this video course and ended up feeling like built something I can show to me, friends and family 
+* I want to try another video course, so would decide it later 
+
+#### **Plans for tomorrow:**
+* go back to my Hack Reactor and then try some other HTML video course   
+
+
+--------------------------------------------------------
+
+
 ### Day 44: Thursday May 21st, 2020
   
 #### **Today's Progress:** 
