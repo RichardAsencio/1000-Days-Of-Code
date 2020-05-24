@@ -14,6 +14,24 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 3. I need a project planner software, so why not try to choose a project planner and start using it to have an additional skill before looking for a job? Why not look and research which are the most commonly used in web design and soft dev, like Trello, Asana, Basecamp, or any others ...
 
 
+
+--------------------------------------------------------
+
+
+### Day 46: Saturday May 23rd, 2020
+
+#### **Today's Progress:** 
+* finished video course [HTML5 & CSS DEvelopment: Learn How To Build a Professional Website](https://www.youtube.com/watch?v=5bMdjkfvONE).  
+
+
+#### **Insights or thoughts:**
+* I definitely enjoyed and learned a lot with this video course and ended up feeling like built something I can show to me, friends and family 
+* I want to try another video course, so would decide it later 
+
+#### **Plans for tomorrow:**
+* go back to my Hack Reactor and then try some other HTML video courses  
+
+
 --------------------------------------------------------
 
 
@@ -21,7 +39,7 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 *posted this on Saturday May 23rd, 2020*
 
 #### **Today's Progress:** 
-* almost video course [HTML5 & CSS DEvelopment: Learn How To Build a Professional Website](https://www.youtube.com/watch?v=5bMdjkfvONE).  
+* almost finished video course [HTML5 & CSS DEvelopment: Learn How To Build a Professional Website](https://www.youtube.com/watch?v=5bMdjkfvONE).  
 
 
 #### **Insights or thoughts:**
