@@ -13,6 +13,22 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 
 3. I need a project planner software, so why not try to choose a project planner and start using it to have an additional skill before looking for a job? Why not look and research which are the most commonly used in web design and soft dev, like Trello, Asana, Basecamp, or any others ...
 
+--------------------------------------------------------
+
+### Day 47: Sunday May 24th, 2020
+
+#### **Today's Progress:** 
+
+* started [Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code](https://www.youtube.com/watch?v=C5QFHp1oAws) / arrived to CSS External 
+
+
+#### **Insights or thoughts:**
+* I really enjoyed the Jordan Hudgens course and learned a lot, so I want to keep doing courses like these, so I will continue first to invest time at my JavaScript Hack Reactor curriculum, while progressing thru my Web Dev skills with a sideline course
+
+#### **Plans for tomorrow:**
+* go back to my Hack Reactor Day 1 and keep on with the DScott tutorial that ends with BootStrap
+* try to find a workflow that allows me to do my Hack Reactor material and any Web Dev course
+* would like to better my GitHub Pages skills as I want to be able to showcase my pages at GitHub and couldn't do that with my last project which was the Jordan Hudgens Portfolio Website
 
 
 --------------------------------------------------------
