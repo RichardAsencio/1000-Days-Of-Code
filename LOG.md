@@ -13,10 +13,27 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 
 3. I need a project planner software, so why not try to choose a project planner and start using it to have an additional skill before looking for a job? Why not look and research which are the most commonly used in web design and soft dev, like Trello, Asana, Basecamp, or any others ...
 
+--------------------------------------------------------
+
+### Day 49: Tuesday May 26th, 2020
+
+#### **Today's Progress:** 
+
+* continued the Daniel Scott course [Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code](https://www.youtube.com/watch?v=C5QFHp1oAws) / did next two different mockups using structural tags, dealt with colors, names, rgb and hex, images, text & font manipulation, links, background images, adding see-through (alpha transparency) to elements, styled the nav bar and added links to it, used compound selectors, styled the footer and added transparency to it, and finally added a link to email, arrive to 3:15:00
+
+
+#### **Insights or thoughts:**
+* I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to accomodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the web des&dev side of it too. 
+
+#### **Plans for tomorrow:**
+* go back to my Hack Reactor Day 1 
+* keep on with the DScott tutorial that ends with BootStrap
+* try to find a workflow that allows me to do my Hack Reactor material and one-at-a-time Web Dev course
+
 
 --------------------------------------------------------
 
-### Day 48: Monday 25th, 2020
+### Day 48: Monday May 25th, 2020
 *posted on Tuesday 26th, 2020*
 
 #### **Today's Progress:** 
