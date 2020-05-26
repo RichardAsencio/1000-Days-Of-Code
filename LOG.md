@@ -5,13 +5,38 @@
 This forward slashes // at any lines mean temporary, maybe incoherent content, but do not to earse yet as I make space or sense for it, so they remain on queue
 
 # These are my current daily core activities: 
-#### (meditation, couch to 5K & news podcast, the economist morning espresso, the daily stoic, typing practice, 5 passwords, 5 notes, 5 pictures, finance, hack-reactor, internetingIsHard, headfirst, freeCode, packt, w3c, adobeXD, appenWork, lionbridgeWork, qasWork) 
+#### (meditation, couch to 5K & news podcast, the economist morning espresso, the daily stoic, typing practice, 5 passwords, 5 notes, 5 pictures, finance, hack-reactor, Daniel Scott course, then Brad Traversy HTML (HTML Crash Course Absolute Beginners, then CSS Crash Course, all thru the HTML & CSS playlist), internetingIsHard, headfirst, freeCode, packt, w3c, adobeXD, appenWork, lionbridgeWork, qasWork) 
 
 * Check this resources sponsored by Mozilla:
 1. Check this [guy](https://jadjoubran.io/) and his [courses](https://learnprogramming.online/?utm_source=jadjoubran.io)
 2. And his courses: 1-[Learn Programming](https://learnprogramming.online/app.html?id=597), 2-[Learn JavaScript](https://learnjavascript.online/app.html) 3-[React Tutorial](https://react-tutorial.app/app.html?id=327) 4-[Build Performant PWAs](https://pwaworkshop.com/)
 
 3. I need a project planner software, so why not try to choose a project planner and start using it to have an additional skill before looking for a job? Why not look and research which are the most commonly used in web design and soft dev, like Trello, Asana, Basecamp, or any others ...
+
+
+--------------------------------------------------------
+
+### Day 48: Monday 25th, 2020
+*posted on Tuesday 26th, 2020*
+
+#### **Today's Progress:** 
+
+* today I did this [GitHub Pages Deploy](https://www.youtube.com/watch?v=SKXkC4SqtRk) course that qualifies for the [Hall of Fame](HallOfFame.md)
+
+* was able to deploy my mockup page for the John Hudgens youtube course in Gitub Pages with my new found gh-pages knowledge  
+
+
+* continued the Daniel Scott course [Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code](https://www.youtube.com/watch?v=C5QFHp1oAws) / arrived at 1:50:21 / next is two different mockups for layouts (I have the images in my Project 1 folder)
+
+
+#### **Insights or thoughts:**
+* I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to accomodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the web des&dev side of it too. 
+
+#### **Plans for tomorrow:**
+* go back to my Hack Reactor Day 1 
+* keep on with the DScott tutorial that ends with BootStrap
+* try to find a workflow that allows me to do my Hack Reactor material and one-at-a-time Web Dev course
+
 
 --------------------------------------------------------
 
