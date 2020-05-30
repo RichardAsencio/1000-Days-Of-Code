@@ -1,5 +1,7 @@
 # Ideas for projects
 
+- start drafting a plan to move most of my resources to the cloud, from my adobe docs in CSS to QAS to everyting in between using my Dropb box, icloud and Onedrive - I should have very little stuf locally in my machine / iphone and ios stuff in my icloud, work stuff in my dropbox and personl stuff in my onedrive  and webdesign stuff in my adobde ccreative cloud 
+
 - transfer all my domains to my Blue Host and make sure each one is working fine (all of them)  
 
 - keep going thru all the courses I want to while raking up webpages for my portfolio, form web responsive prokects to bootstrap to framworks, etc etc ... 
