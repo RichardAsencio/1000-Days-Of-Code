@@ -16,6 +16,31 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 
 --------------------------------------------------------
 
+### Day 52: Friday May 29th, 2020
+
+#### **Today's Progress:** 
+
+* continued the Daniel Scott course [Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code](https://www.youtube.com/watch?v=C5QFHp1oAws). I continue to work on Project 2 of the course, today I dealt with:
+1. learning and practicing fonts in px, em and rem, and the conversions and differences between them 
+2. how to change and fix the spacing between lines, text and paragraphs with line height and line spacing in CSS, (line-height, margin-bottom, etc.)
+3. explored the differences between JPEGs, PNGs and SVGs 
+4. did card background images with their heading and text, and padding and margin stylings
+5. learned to paste icons on top of my cards with free resources form Fonts Awesome and Material Design. These are linked in a similar as to how Gogle Fonts work, and can be styled in size the same way fonts are.   
+
+* to keep in mind take a look at the list of courses at the bottom of my [Pending](PENDING.md) 
+
+
+#### **Insights or thoughts:**
+* I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to accomodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the web des&dev side of it too. 
+
+#### **Plans for tomorrow:**
+* go back to my Hack Reactor Day 1 
+* keep on with the DScott tutorial that ends with BootStrap
+* try to find a workflow that allows me to do my Hack Reactor material and one-at-a-time Web Dev course
+
+
+--------------------------------------------------------
+
 ### Day 51: Thursday May 28th, 2020
 
 #### **Today's Progress:** 
