@@ -2,17 +2,6 @@
 # 1000 Days Of Code - Daily Log
 ### *My Career Change Journey into Software Development*
 
-This forward slashes // at any lines mean temporary, maybe incoherent content, but do not to earse yet as I make space or sense for it, so they remain on queue
-
-# These are my current daily core activities: 
-#### (meditation, couch to 5K & news podcast, the economist morning espresso, the daily stoic, typing practice, 5 passwords, 5 notes, 5 pictures, finance, hack-reactor, Daniel Scott course, then Brad Traversy HTML (HTML Crash Course Absolute Beginners, then CSS Crash Course, all thru the HTML & CSS playlist), internetingIsHard, headfirst, freeCode, packt, w3c, adobeXD, appenWork, lionbridgeWork, qasWork) 
-
-* Check this resources sponsored by Mozilla:
-1. Check this [guy](https://jadjoubran.io/) and his [courses](https://learnprogramming.online/?utm_source=jadjoubran.io)
-2. And his courses: 1-[Learn Programming](https://learnprogramming.online/app.html?id=597), 2-[Learn JavaScript](https://learnjavascript.online/app.html) 3-[React Tutorial](https://react-tutorial.app/app.html?id=327) 4-[Build Performant PWAs](https://pwaworkshop.com/)
-
-3. I need a project planner software, so why not try to choose a project planner and start using it to have an additional skill before looking for a job? Why not look and research which are the most commonly used in web design and soft dev, like Trello, Asana, Basecamp, or any others ...
-
 
 --------------------------------------------------------
 
