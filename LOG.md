@@ -16,6 +16,32 @@ This forward slashes // at any lines mean temporary, maybe incoherent content, b
 
 --------------------------------------------------------
 
+
+### Day 54: Sunday May 31st, 2020
+
+#### **Today's Progress:** 
+
+* continued the Daniel Scott course [Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code](https://www.youtube.com/watch?v=C5QFHp1oAws). I continue to work on Project 2 of the course, today I dealt with:
+1. learned how to do radius, to buttons, images, div tags, etc 
+2. how to implement drop shadows, box-shadows and text-shadows
+3. reusing my existing button anchor tag to implememt nav bar buttons
+4. style nav bar buttons
+5. add a horinzontal rule betwwen the nav bar and main content
+
+* to keep in mind take a look at the list of courses at the bottom of my [Pending](PENDING.md) 
+
+#### **Insights or thoughts:**
+* I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to accomodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the web des&dev side of it too. 
+
+#### **Plans for tomorrow:**
+* attend FreeCodeCamp Chicago Loop's Sunday Virtual Meetup
+* go back to my Hack Reactor Day 1 
+* keep on with the DScott tutorial that ends with BootStrap
+* try to find a workflow that allows me to do my Hack Reactor material and one-at-a-time Web Dev course
+
+
+--------------------------------------------------------
+
 ### Day 53: Saturday May 30th, 2020
 
 #### **Today's Progress:** 
