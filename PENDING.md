@@ -1,8 +1,34 @@
 # Pending
 
-My LOG started to be messy and cluttered with all the ideas and things penidng to be done if time allows, so I decided to offload all that messiness to another document for the sake of bringing some sanity and cleanliness to my LOG
 
-/////////////////////////////// All beneath this is: PENDING STUFF /////////////////////////////////
+# BYOL 
+
+1. [Responsive Web Design Essentials - HTML5 CSS3 Bootstrap](https://www.bringyourownlaptop.com/courses/responsive-web-design-tutorial-course-html5-css3-bootstrap)
+
+2. [Dreamweaver - HTML and CSS Using Dreamweaver](https://www.bringyourownlaptop.com/courses/dreamweaver-cc-tutorial)
+
+3. [Dreamweaver - Coding your first website using Dreamweaver 2018](https://www.bringyourownlaptop.com/courses/coding-for-designers)
+
+4. [Dreamweaver CC 2018 - Introduction to responsive web design](https://www.bringyourownlaptop.com/courses/dreamweaver-cc-2018-introduction-to-responsive-web-design-basic)
+
+5. [Dreamweaver - Building Responsive Bootstrap websites](https://www.bringyourownlaptop.com/courses/dreamweaver-bootstrap-responsive)
+
+6. [User Experience Design Essentials - Adobe XD UI UX Design](https://www.bringyourownlaptop.com/courses/ui-ux-web-design-using-adobe-xd)
+
+
+
+## Also:
+
+* Check this resources sponsored by Mozilla:
+1. Check this [guy](https://jadjoubran.io/) and his [courses](https://learnprogramming.online/?utm_source=jadjoubran.io)
+2. And his courses: 1-[Learn Programming](https://learnprogramming.online/app.html?id=597), 2-[Learn JavaScript](https://learnjavascript.online/app.html) 3-[React Tutorial](https://react-tutorial.app/app.html?id=327) 4-[Build Performant PWAs](https://pwaworkshop.com/)
+
+3. I need a project planner software, so why not try to choose a project planner and start using it to have an additional skill before looking for a job? Why not look and research which are the most commonly used in web design and soft dev, like Trello, Asana, Basecamp, or any others ...
+
+
+My LOG started to get messy and cluttered with all the ideas and things pending to be done if time allows, so I decided to offload all that messiness to another document for the sake of bringing some sanity and cleanliness to my LOG
+
+/////////////////////////////// All beneath this is: PENDING or afterthoughts STUFF /////////////////////////
 
 
 
@@ -51,19 +77,7 @@ My LOG started to be messy and cluttered with all the ideas and things penidng t
 
 
 
-# BYOL 
 
-1. [Responsive Web Design Essentials - HTML5 CSS3 Bootstrap](https://www.bringyourownlaptop.com/courses/responsive-web-design-tutorial-course-html5-css3-bootstrap)
-
-2. [Dreamweaver - HTML and CSS Using Dreamweaver](https://www.bringyourownlaptop.com/courses/dreamweaver-cc-tutorial)
-
-3. [Dreamweaver - Coding your first website using Dreamweaver 2018](https://www.bringyourownlaptop.com/courses/coding-for-designers)
-
-4. [Dreamweaver CC 2018 - Introduction to responsive web design](https://www.bringyourownlaptop.com/courses/dreamweaver-cc-2018-introduction-to-responsive-web-design-basic)
-
-5. [Dreamweaver - Building Responsive Bootstrap websites](https://www.bringyourownlaptop.com/courses/dreamweaver-bootstrap-responsive)
-
-6. [User Experience Design Essentials - Adobe XD UI UX Design](https://www.bringyourownlaptop.com/courses/ui-ux-web-design-using-adobe-xd)
 
 
 
