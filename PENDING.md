@@ -26,10 +26,12 @@
 3. I need a project planner software, so why not try to choose a project planner and start using it to have an additional skill before looking for a job? Why not look and research which are the most commonly used in web design and soft dev, like Trello, Asana, Basecamp, or any others ...
 
 
-My LOG started to get messy and cluttered with all the ideas and things pending to be done if time allows, so I decided to offload all that messiness to another document for the sake of bringing some sanity and cleanliness to my LOG
+
+
 
 /////////////////////////////// All beneath this is: PENDING or afterthoughts STUFF /////////////////////////
 
+My LOG started to get messy and cluttered with all the ideas and things pending to be done if time allows, so I decided to offload all that messiness to another document for the sake of bringing some sanity and cleanliness to my LOG
 
 
 // 1. what's the file gitignore for? should I have one on each of my repos?
