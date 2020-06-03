@@ -5,7 +5,30 @@
 
 --------------------------------------------------------
 
-### Day 55: Monday Jun e 1st, 2020
+
+### Day 56: Tuesday June 2nd, 2020
+
+#### **Today's Progress:** 
+
+* continued the Daniel Scott course [Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code](https://www.youtube.com/watch?v=C5QFHp1oAws). I continue to work on Project 2 of the course, today I dealt with:
+1. how to do simple CSS dropdown menu for the nav bar 
+2. implement a CSS dropdown menu to Roar Bikes homepage 
+3. learned some VS Code shortcuts and tricks 
+
+* to keep in mind take a look at the list of courses at the bottom of my [Pending](PENDING.md) 
+
+#### **Insights or thoughts:**
+* I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to accomodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the web des&dev side of it too. 
+
+#### **Plans for tomorrow:**
+* go back to my Hack Reactor Day 1 
+* keep on with the DScott tutorial that ends with BootStrap
+* try to find a workflow that allows me to do my Hack Reactor material and one-at-a-time Web Dev course
+
+
+--------------------------------------------------------
+
+### Day 55: Monday June 1st, 2020
 
 #### **Today's Progress:** 
 
