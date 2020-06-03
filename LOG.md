@@ -3,6 +3,29 @@
 ### *My Career Change Journey into Software Development*
 
 
+
+--------------------------------------------------------
+
+
+### Day 57: Wednesday June 3rd, 2020
+
+#### **Today's Progress:** 
+
+* continued the Daniel Scott course [Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code](https://www.youtube.com/watch?v=C5QFHp1oAws). I continue to work on Project 2 of the course, today I dealt with:
+1. practiced VS Code keyboard shortcuts. Yes more than two hours learning and practicing:
+    - for zen mode, how to create an html doc, how to create a css doc ad link it to an html doc, the minimap, the breadcrumbs, format selection or format document, select by expanding form child to parent tag, text wrap, creating classes, creating, creating an entire block of code with class and any number of parent-child elements, creating lorem ipsum text of any size, using multicursors to change all occurences, selected occurences, and also straight down vertical multisursors   
+
+* to keep in mind take a look at the list of courses at the bottom of my [Pending](PENDING.md) 
+
+#### **Insights or thoughts:**
+* I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to accomodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the web des&dev side of it too. 
+
+#### **Plans for tomorrow:**
+* go back to my Hack Reactor Day 1 
+* keep on with the DScott tutorial that ends with BootStrap
+* try to find a workflow that allows me to do my Hack Reactor material and one-at-a-time Web Dev course
+
+
 --------------------------------------------------------
 
 
