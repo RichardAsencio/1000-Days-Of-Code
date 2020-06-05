@@ -3,6 +3,36 @@
 ### *My Career Change Journey into Software Development*
 
 
+--------------------------------------------------------
+
+### Day 58: Thursday June 4th, 2020
+
+#### **Today's Progress:** 
+
+* continued the Daniel Scott course [Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code](https://www.youtube.com/watch?v=C5QFHp1oAws). I continue to work on Project 2 of the course, today I dealt with:
+1. learned to add a large background image to a website design (learned to use Photoshop to take an SVG iamge in turn it into a PNG with transparency)
+2. make HTML forms and some PHP in my host to catch the data and sent me an email form
+3. implement placeholder text and labels to forms
+4. added a multiline textbox to the html form
+5. added radio buttons
+6. implemented a dropdown menu for cities
+7. styled the text, input boxes and all related to the forms
+8. started a new project that will be based on learning web responsive design, to use media queries and lots of flexbox
+9. did media queries for desktop view, tablet view and mobile view
+10. add property "display:none" to turn on and off certain elements,depending on the view
+11. work with images pixel densitty, ratio or DPPX (dots per pixel) and how it affects the different web resposive views 
+12. img tag with sourceset
+
+
+* to keep in mind take a look at the list of courses at the bottom of my [Pending](PENDING.md) 
+
+#### **Insights or thoughts:**
+* I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to accomodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the web des&dev side of it too. 
+
+#### **Plans for tomorrow:**
+* go back to my Hack Reactor Day 1 
+* keep on with the DScott tutorial that ends with BootStrap
+* try to find a workflow that allows me to do my Hack Reactor material and one-at-a-time Web Dev course
 
 --------------------------------------------------------
 
