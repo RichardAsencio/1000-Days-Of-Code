@@ -2,6 +2,49 @@
 # 1000 Days Of Code - Daily Log
 ### *My Career Change Journey into Software Development*
 
+--------------------------------------------------------
+
+### Day 60: Saturday June 6th, 2020
+
+#### **Today's Progress:** 
+
+* continued the Daniel Scott course [Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code](https://www.youtube.com/watch?v=C5QFHp1oAws). I continue to work on Project 2 of the course, today I dealt with:
+1. 
+
+
+#### **Insights or thoughts:**
+* I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to accomodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the web des&dev side of it too.
+
+#### **Plans for tomorrow:**
+* go back to my Hack Reactor Day 1 
+* keep on with the DScott tutorial that ends with BootStrap
+* try to find a workflow that allows me to do my Hack Reactor material and one-at-a-time Web Dev course
+
+* to keep in mind take a look at the list of courses at the bottom of my [Pending](PENDING.md)
+
+--------------------------------------------------------
+
+### Day 59: Friday June 5th, 2020
+
+#### **Today's Progress:** 
+
+* continued the Daniel Scott course [Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code](https://www.youtube.com/watch?v=C5QFHp1oAws). I continue to work on Project 2 of the course, today I dealt with:
+1. learned to style the header
+2. learned and did some practice with span tags, and how to do span inline styling and span css styling
+3. learned two to pin a nav bar into my webpage
+4. created media queries for desktop, tablet and mobile screen sizes
+5. deployed to my host to test and worked perfectly
+
+#### **Insights or thoughts:**
+* I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to accomodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the web des&dev side of it too.
+
+#### **Plans for tomorrow:**
+* go back to my Hack Reactor Day 1 
+* keep on with the DScott tutorial that ends with BootStrap
+* try to find a workflow that allows me to do my Hack Reactor material and one-at-a-time Web Dev course
+
+* to keep in mind take a look at the list of courses at the bottom of my [Pending](PENDING.md)
+
 
 --------------------------------------------------------
 
@@ -20,9 +63,8 @@
 8. started a new project that will be based on learning web responsive design, to use media queries and lots of flexbox
 9. did media queries for desktop view, tablet view and mobile view
 10. add property "display:none" to turn on and off certain elements,depending on the view
-11. work with images pixel densitty, ratio or DPPX (dots per pixel) and how it affects the different web resposive views 
-12. img tag with sourceset
-
+work with images pixel densitty, ratio or DPPX (dots per pixel) and how it affects the different web responsive views
+11. did img tag with sourceset
 
 * to keep in mind take a look at the list of courses at the bottom of my [Pending](PENDING.md) 
 
