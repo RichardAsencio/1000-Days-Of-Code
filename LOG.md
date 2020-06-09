@@ -6,19 +6,42 @@
 --------------------------------------------------------
 
 
-### Log Entry for Day 61: Sunday June 7th, 2020
+### Log Entry for Day 62: Monday June 8th, 2020
 
 #### **Today's Progress:** 
 
-* continued the Daniel Scott course [Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code](https://www.youtube.com/watch?v=C5QFHp1oAws). I continue to work on Project 2 of the course, today I dealt with:
-1. got introduced fo JQuery, what is and how it works
+* continued the Daniel Scott course [Responsive Web Design Essentials - HTML5 CSS3 Bootstrap & Visual Studio Code](https://www.bringyourownlaptop.com/courses/responsive-web-design-tutorial-course-html5-css3-bootstrap). Today I worked on:
+1. Started Again Hack Reactor - refer to Github repo 
+2. Got started with Project 4 which focuses in the use of Bootstrap framework
+3. 
 
 #### **Insights or thoughts:**
 * I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to accomodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the web des&dev side of it too.
 
 #### **Plans for tomorrow:**
 * go back to my Hack Reactor Day 1 
-* keep on with the DScott tutorial that ends with BootStrap
+* keep on with the DScott tutorial that ends with BootStrap / one web design tutorial at a time
+* try Dans Scott Adobe X and UI/UX courses to start focusing on the design part, Photoshop, Illustrator, InDesign, etc 
+* try to find a workflow that allows me to do my Hack Reactor material and one-at-a-time Web Dev course
+
+* to keep in mind take a look at the list of courses at the bottom of my [Pending](PENDING.md) ... consider repeating both Jordan Hudgens and Dan Scott Essentials, bu first finishing Interneting is Hard, Front End Master Bootcamp, Head First, FreeCode Camp Web Responsive, Packt HTML & CSS Workshop, w3c HTML & CSS, and then MDN 
+
+--------------------------------------------------------
+
+
+### Log Entry for Day 61: Sunday June 7th, 2020
+
+#### **Today's Progress:** 
+
+* continued the Daniel Scott course [Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code](https://www.youtube.com/watch?v=C5QFHp1oAws). 
+1. today I finished Project 3
+
+#### **Insights or thoughts:**
+* I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to accomodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the web des&dev side of it too.
+
+#### **Plans for tomorrow:**
+* go back to my Hack Reactor Day 1 
+* start Project 4 of Dan Scott's BYOL that uses framework Bootstrap 
 * try to find a workflow that allows me to do my Hack Reactor material and one-at-a-time Web Dev course
 
 * to keep in mind take a look at the list of courses at the bottom of my [Pending](PENDING.md)
@@ -30,7 +53,7 @@
 
 #### **Today's Progress:** 
 
-* continued the Daniel Scott course [Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code](https://www.youtube.com/watch?v=C5QFHp1oAws). I continue to work on Project 2 of the course, today I dealt with:
+* continued the Daniel Scott course [Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code](https://www.youtube.com/watch?v=C5QFHp1oAws). I continue to work on Project 3 of the course, today I dealt with:
 1. got introduced fo JQuery, what is and how it works
 
 #### **Insights or thoughts:**
@@ -49,7 +72,7 @@
 
 #### **Today's Progress:** 
 
-* continued the Daniel Scott course [Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code](https://www.youtube.com/watch?v=C5QFHp1oAws). I continue to work on Project 2 of the course, today I dealt with:
+* continued the Daniel Scott course [Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code](https://www.youtube.com/watch?v=C5QFHp1oAws). I continue to work on Project 3 of the course, today I dealt with:
 1. learned to style the header
 2. learned and did some practice with span tags, and how to do span inline styling and span css styling
 3. learned two to pin a nav bar into my webpage
@@ -73,7 +96,7 @@
 
 #### **Today's Progress:** 
 
-* continued the Daniel Scott course [Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code](https://www.youtube.com/watch?v=C5QFHp1oAws). I continue to work on Project 2 of the course, today I dealt with:
+* continued the Daniel Scott course [Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code](https://www.youtube.com/watch?v=C5QFHp1oAws). I continue to work on Project 3 of the course, today I dealt with:
 1. learned to add a large background image to a website design (learned to use Photoshop to take an SVG iamge in turn it into a PNG with transparency)
 2. make HTML forms and some PHP in my host to catch the data and sent me an email form
 3. implement placeholder text and labels to forms
