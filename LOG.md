@@ -6,12 +6,38 @@
 --------------------------------------------------------
 
 
+### Log Entry for Day 65: Thursday June 11th, 2020
+
+#### **Today's Progress:** 
+
+
+* continued the Daniel Scott course [Responsive Web Design Essentials - HTML5 CSS3 Bootstrap & Visual Studio Code](https://www.bringyourownlaptop.com/courses/responsive-web-design-tutorial-course-html5-css3-bootstrap). Today I worked on:
+1. learned and practiced overriding Bootstrap styles to customize my bootstrapped webpage
+2. practiced adding Google Fonts, added open sans and abril fat face
+3. practiced styling with color gradients, added a gradient background color with "background-image: linear-gradient(color1, color2)
+
+
+#### **Insights or thoughts:**
+* I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to accomodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the web des&dev side of it too.
+
+
+#### **Plans for tomorrow:**
+* keep on with the DScott tutorial that ends with BootStrap / one web design tutorial at a time
+* try Dans Scott Adobe X and UI/UX courses to start focusing on the design part, Photoshop, Illustrator, InDesign, etc 
+* try to find a workflow that allows me to do my Hack Reactor material and one-at-a-time Web Dev course
+
+* to keep in mind take a look at the list of courses at the bottom of my [Pending](PENDING.md) ... consider repeating both Jordan Hudgens and Dan Scott Essentials, bu first finishing Interneting is Hard, Front End Master Bootcamp, Head First, FreeCode Camp Web Responsive, Packt HTML & CSS Workshop, w3c HTML & CSS, and then MDN 
+
+
+--------------------------------------------------------
+
+
 ### Log Entry for Day 64: Wednesday June 10th, 2020
 *posted on June 11 2020*
 
 #### **Today's Progress:** 
 
-1. Practiced JavaScript / again Array and Obejcts Methods y doing some coding challenges 
+1. Practiced JavaScript / again Array and Objects Methods y doing some coding challenges 
 
 #### **Insights or thoughts:**
 * I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to accomodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the web des&dev side of it too.
