@@ -1,7 +1,10 @@
 # Pending
 
+## Front End Masters
+1. The Bootcamp 
+2. The Bryan Holt Game Dev Course with Vanilla JS   
 
-# BYOL 
+## BYOL 
 
 1. [Responsive Web Design Essentials - HTML5 CSS3 Bootstrap](https://www.bringyourownlaptop.com/courses/responsive-web-design-tutorial-course-html5-css3-bootstrap)
 
@@ -23,9 +26,7 @@
 1. Check this [guy](https://jadjoubran.io/) and his [courses](https://learnprogramming.online/?utm_source=jadjoubran.io)
 2. And his courses: 1-[Learn Programming](https://learnprogramming.online/app.html?id=597), 2-[Learn JavaScript](https://learnjavascript.online/app.html) 3-[React Tutorial](https://react-tutorial.app/app.html?id=327) 4-[Build Performant PWAs](https://pwaworkshop.com/)
 
-3. Consider suspending my O'Reilly Learning suscription in favor for the Front End masters suscription 
-
-4. I need a project planner software, so why not try to choose a project planner and start using it to have an additional skill before looking for a job? Why not look and research which are the most commonly used in web design and soft dev, like Trello, Asana, Basecamp, or any others ...
+3. I need a project planner software, so why not try to choose a project planner and start using it to have an additional skill before looking for a job? Why not look and research which are the most commonly used in web design and soft dev, like Trello, Asana, Basecamp, or any others ...
 
 
 
