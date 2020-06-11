@@ -6,14 +6,38 @@
 --------------------------------------------------------
 
 
+### Log Entry for Day 63: Tuesday June 9th, 2020
+*posted on June 11 2020*
+
+#### **Today's Progress:** 
+
+* continued the Daniel Scott course [Responsive Web Design Essentials - HTML5 CSS3 Bootstrap & Visual Studio Code](https://www.bringyourownlaptop.com/courses/responsive-web-design-tutorial-course-html5-css3-bootstrap). Today I worked on:
+1. Project 4 - learned about Bootstrap, installed the links, added nav, carousel, jumbotron and three cards
+
+2. Started Again Hack Reactor - refer to Github repo
+
+#### **Insights or thoughts:**
+* I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to accomodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the web des&dev side of it too.
+
+#### **Plans for tomorrow:**
+* go back to my Hack Reactor Day 1 
+* keep on with the DScott tutorial that ends with BootStrap / one web design tutorial at a time
+* try Dans Scott Adobe X and UI/UX courses to start focusing on the design part, Photoshop, Illustrator, InDesign, etc 
+* try to find a workflow that allows me to do my Hack Reactor material and one-at-a-time Web Dev course
+
+* to keep in mind take a look at the list of courses at the bottom of my [Pending](PENDING.md) ... consider repeating both Jordan Hudgens and Dan Scott Essentials, bu first finishing Interneting is Hard, Front End Master Bootcamp, Head First, FreeCode Camp Web Responsive, Packt HTML & CSS Workshop, w3c HTML & CSS, and then MDN 
+
+
+--------------------------------------------------------
+
+
 ### Log Entry for Day 62: Monday June 8th, 2020
 
 #### **Today's Progress:** 
 
 * continued the Daniel Scott course [Responsive Web Design Essentials - HTML5 CSS3 Bootstrap & Visual Studio Code](https://www.bringyourownlaptop.com/courses/responsive-web-design-tutorial-course-html5-css3-bootstrap). Today I worked on:
-1. Started Again Hack Reactor - refer to Github repo 
-2. Got started with Project 4 which focuses in the use of Bootstrap framework
-3. 
+1. Got started with Project 4 which focuses in the use of Bootstrap framework
+2. Started Again Hack Reactor - refer to Github repo
 
 #### **Insights or thoughts:**
 * I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to accomodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the web des&dev side of it too.
