@@ -6,14 +6,18 @@
 
 
 ### Log Entry for Day 70: Tuesday June 16th, 2020
-*posted on June 16th, 2020*
+*posted on June 17th, 2020*
 
 #### **Today's Progress:** 
 
 * continued the Daniel Scott course [Responsive Web Design Essentials - HTML5 CSS3 Bootstrap & Visual Studio Code](https://www.bringyourownlaptop.com/courses/responsive-web-design-tutorial-course-html5-css3-bootstrap). Today I worked on:
 1. practice Bootstrap layout with xl, lg, md and sm breakpointss
 2. did inline styling in Bootstrap,by using their breakpoints and their classes notation, and not the CSS sheet
-3. identified which div tags to change for semantic tags like header, main, article, section, footer, etc, while not interferring with the bootstrap classes
+3. identified which div tags to change for semantic tags like header, main, article, section, footer, etc, while  not interferring with the bootstrap classes
+4. learned to use Google Chrome's web inspector to identify and override Bootstrap styles
+6. added shadow to h1 with text-shadow
+7. styled text and removed hr tag element
+8. styled the herobox area button
 
 
 #### **Insights or thoughts:**
