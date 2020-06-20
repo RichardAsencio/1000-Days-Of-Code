@@ -7,9 +7,7 @@
 ## MDN New Front-end Web Developer Learning Path
 [Front-end Web Developer Learning Path](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 
-
 ## BYOL 
-
 1. [Responsive Web Design Essentials - HTML5 CSS3 Bootstrap](https://www.bringyourownlaptop.com/courses/responsive-web-design-tutorial-course-html5-css3-bootstrap)
 
 2. [Dreamweaver - HTML and CSS Using Dreamweaver](https://www.bringyourownlaptop.com/courses/dreamweaver-cc-tutorial)
@@ -25,7 +23,6 @@
 
 
 ## Also:
-
 * Check this resources sponsored by Mozilla:
 1. Check this [guy](https://jadjoubran.io/) and his [courses](https://learnprogramming.online/?utm_source=jadjoubran.io)
 2. And his courses: 1-[Learn Programming](https://learnprogramming.online/app.html?id=597), 2-[Learn JavaScript](https://learnjavascript.online/app.html) 3-[React Tutorial](https://react-tutorial.app/app.html?id=327) 4-[Build Performant PWAs](https://pwaworkshop.com/)
