@@ -2,11 +2,37 @@
 # 1000 Days Of Code - Daily Log
 ### *My Career Change Journey into Software Development*
 
+    
 --------------------------------------------------------
 
+### Log Entry for Day 72: Thursday June 18th, 2020
+
+#### **Today's Progress:** 
+
+* continued the Daniel Scott course [Responsive Web Design Essentials - HTML5 CSS3 Bootstrap & Visual Studio Code](https://www.bringyourownlaptop.com/courses/responsive-web-design-tutorial-course-html5-css3-bootstrap). Today I worked on:
+1. eliminated the background color at the navbar by targeting the class bg-light, found by using the web inspector  
+2. added and styled the image and text for an additional herobox named founders
+3. styled the carrousel to fade and set the intervals of the fading of each image on it
+4. styled cards to display inline
+5. styled the cards with drop shadows
+6. added the anchor tag property to each of the cards surface area
+7. dis final styles to cards buttons, these are the last project edits
+8. finished the project 
+
+
+#### **Insights or thoughts:**
+* I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to accomodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the web des&dev side of it too.
+
+#### **Plans for tomorrow:**
+* keep on with the DScott tutorial that ends with BootStrap / one web design tutorial at a time
+* try Dans Scott Adobe X and UI/UX courses to start focusing on the design part, Photoshop, Illustrator, InDesign, etc 
+* try to find a workflow that allows me to do my Hack Reactor material and one-at-a-time Web Dev course
+
+* to keep in mind take a look at the list of courses at the bottom of my [Pending](PENDING.md) ... consider repeating both Jordan Hudgens and Dan Scott Essentials, bu first finishing Interneting is Hard, Front End Master Bootcamp, Head First, FreeCode Camp Web Responsive, Packt HTML & CSS Workshop, w3c HTML & CSS, and then MDN 
+
+--------------------------------------------------------
 
 ### Log Entry for Day 71: Wednesday June 17th, 2020
-*posted on June 16th, 2020*
 
 #### **Today's Progress:** 
 
@@ -30,7 +56,6 @@
 
 --------------------------------------------------------
 
-
 ### Log Entry for Day 70: Tuesday June 16th, 2020
 *posted on June 17th, 2020*
 
@@ -45,7 +70,6 @@
 7. styled text and removed hr tag element
 8. styled the herobox area button
 
-
 #### **Insights or thoughts:**
 * I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to accomodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the web des&dev side of it too.
 
@@ -55,7 +79,6 @@
 * try to find a workflow that allows me to do my Hack Reactor material and one-at-a-time Web Dev course
 
 * to keep in mind take a look at the list of courses at the bottom of my [Pending](PENDING.md) ... consider repeating both Jordan Hudgens and Dan Scott Essentials, bu first finishing Interneting is Hard, Front End Master Bootcamp, Head First, FreeCode Camp Web Responsive, Packt HTML & CSS Workshop, w3c HTML & CSS, and then MDN 
-
 
 --------------------------------------------------------
 
@@ -76,7 +99,6 @@
 * try to find a workflow that allows me to do my Hack Reactor material and one-at-a-time Web Dev course
 
 * to keep in mind take a look at the list of courses at the bottom of my [Pending](PENDING.md) ... consider repeating both Jordan Hudgens and Dan Scott Essentials, bu first finishing Interneting is Hard, Front End Master Bootcamp, Head First, FreeCode Camp Web Responsive, Packt HTML & CSS Workshop, w3c HTML & CSS, and then MDN 
-
 
 --------------------------------------------------------
 
