@@ -2,6 +2,14 @@
 # 1000 Days Of Code - Daily Log
 ### *My Career Change Journey into Software Development*
 
+
+--------------------------------------------------------
+
+### Log Entry for Day 73: Friday June 20th, 2020
+
+#### **Today's Progress:** 
+
+* Practiced JavaScript Looping with Arraya dn Objects  
     
 --------------------------------------------------------
 
