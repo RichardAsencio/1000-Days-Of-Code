@@ -2,10 +2,32 @@
 # 1000 Days Of Code - Daily Log
 ### *My Career Change Journey into Software Development*
 
+--------------------------------------------------------
+
+### Log Entry for Day 74: Saturday June 20th, 2020
+
+#### **Today's Progress:** 
+
+* Started Daniel Scott's [USER Experience Design Essentials Adobe XD/UX Design](https://www.bringyourownlaptop.com/courses/ui-ux-web-design-using-adobe-xd). Today I worked on:
+1. getting to know the XD interface
+2. created a new file 
+3. downloaded, opened and started creating a mockup with a web UI kit
+
+
+#### **Insights or thoughts:**
+* I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to accomodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the web des&dev side of it too.
+
+#### **Plans for tomorrow:**
+* first my time my Hack-Reactor JavaScript 
+* second my time with Adobe XD  
+* try to find an optimal workflow that allows me to do my Hack Reactor material and one-at-a-time Web Dev course
+
+* to keep in mind take a look at the list of courses at the bottom of my [Pending](PENDING.md) ... consider repeating both Jordan Hudgens and Dan Scott Essentials, but first finishing Interneting is Hard, Front End Master Bootcamp, Head First, FreeCode Camp Web Responsive, Packt HTML & CSS Workshop, w3c HTML & CSS, and then MDN Front End Learning Path
+
 
 --------------------------------------------------------
 
-### Log Entry for Day 73: Friday June 20th, 2020
+### Log Entry for Day 73: Friday June 19th, 2020
 
 #### **Today's Progress:** 
 
