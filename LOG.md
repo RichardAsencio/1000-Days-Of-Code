@@ -2,6 +2,17 @@
 # 1000 Days Of Code - Daily Log
 ### *My Career Change Journey into Software Development*
 
+
+--------------------------------------------------------
+
+### Log Entry for Day 75: Sunday June 21st, 2020
+
+#### **Today's Progress:** 
+
+* Started Daniel Scott's [USER Experience Design Essentials Adobe XD/UX Design](https://www.bringyourownlaptop.com/courses/ui-ux-web-design-using-adobe-xd). Today I worked on:
+1. worked with basic colors & buttons of the web kit 
+2. worked with UI icons
+
 --------------------------------------------------------
 
 ### Log Entry for Day 74: Saturday June 20th, 2020
