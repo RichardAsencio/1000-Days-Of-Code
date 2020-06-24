@@ -5,6 +5,15 @@
 
 --------------------------------------------------------
 
+### Log Entry for Day 76: Monday June 22nd, 2020
+
+#### **Today's Progress:** 
+
+* Started Daniel Scott's [USER Experience Design Essentials Adobe XD/UX Design](https://www.bringyourownlaptop.com/courses/ui-ux-web-design-using-adobe-xd). Today I worked on:
+1. continued to work with changing colors, buttons and icons with different web kits
+
+--------------------------------------------------------
+
 ### Log Entry for Day 75: Sunday June 21st, 2020
 
 #### **Today's Progress:** 
