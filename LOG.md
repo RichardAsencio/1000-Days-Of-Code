@@ -5,6 +5,22 @@
 
 --------------------------------------------------------
 
+### Log Entry for Day 77: Tuesday June 23rd, 2020
+
+*Project Conception*
+1. decided to start building my first webpage
+2. it will be a restaurant mobile responsive website made with bootstrap
+3. will be a birthday gift for my fiancee who loves the kitchen and dreams of her own restaurant, due date Sunday 28th, 2020
+
+#### **Today's Progress:** 
+1. went to the internet and researched for simple restaurant websites
+2. wrote down the features, sections and pages I will try to implement in the project
+3. did a wireframe of my first page
+4. started coding the first page
+
+
+--------------------------------------------------------
+
 ### Log Entry for Day 76: Monday June 22nd, 2020
 
 #### **Today's Progress:** 
