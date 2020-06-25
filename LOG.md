@@ -2,6 +2,19 @@
 # 1000 Days Of Code - Daily Log
 ### *My Career Change Journey into Software Development*
 
+--------------------------------------------------------
+
+### Log Entry for Day 78: Wednesady June 24th, 2020
+
+*Project Conception*
+1. decided to start building my first webpage
+2. it will be a restaurant mobile responsive website made with bootstrap
+3. will be a birthday gift for my fiancee who loves the kitchen and dreams of her own restaurant, due date Sunday 28th, 2020
+
+#### **Today's Progress:** 
+1. finished the index page
+2. did a second webpage, the My Story page 
+
 
 --------------------------------------------------------
 
