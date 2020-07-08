@@ -4,7 +4,25 @@
 
 --------------------------------------------------------
 
-### Log Entry for Day 78: Wednesady June 24th, 2020
+### Log Entry for Day 90: Tuesday July 7th, 2020
+
+#### Even though it may appear as if I have not coded on a daily basis since Day 78: Wednesday June 24th, 2020, that's not the case; I have actually coded everyday, without exception, and relentlessly, and hurried to finish a self-imposed project: my first website. The time was so tight that I just gave up coming here to make notes on it, and decided would do so when the project is completed; and it is with much pride and satisfaction, and great sense of accomplishment, that I can write to say I was able to do it. I finally unveiled it in public via a Facebook post as a surprise belated birthday gift to my fiancee. She loved it, and my friends and family gave me rave reviews and lots of congrats.
+
+*So this is a Log Entry to reflect my coding hours from "Day 79 to Day 90" as I was able to build and publish my first website*
+*Project Achievements*
+This was meant to be a birthday gift for my fiancee who loves the kitchen and dreams of her own restaurant. The due date was on her birthday Monday 29th, 2020, however I was not able to have it in a decent functional state by her birthday, so I decided to deliver it at a later date and was able to do so on July 4th, 2020. 
+
+For this project I basically spent one or two hours a day, mostly form 11pm to 1am, when my fiancee was sleeping I could still muster strength to remain awake. 
+
+I learned to use Bootstrap, I learned to use Photoshop to optimize my pictures and Illustrator to take a free logo and change it's color. I also spent time learning how to use a web-hosting service to buy a domain and  configure it do the FTP directly from VS Code. All in all I estimate it took me over 26 hours to have do all this.
+
+Here is the link: 
+[El Meson de la Nena](www.elmesondelanena.com) 
+
+
+--------------------------------------------------------
+
+### Log Entry for Day 78: Wednesday June 24th, 2020
 
 *Project Conception*
 1. decided to start building my first webpage
