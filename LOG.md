@@ -17,7 +17,7 @@ For this project I basically spent one or two hours a day, mostly form 11pm to 1
 I learned to use Bootstrap, I learned to use Photoshop to optimize my pictures and Illustrator to take a free logo and change it's color. I also spent time learning how to use a web-hosting service to buy a domain and  configure it do the FTP directly from VS Code. All in all I estimate it took me over 26 hours to have do all this.
 
 Here is the link: 
-[El Meson de la Nena](www.elmesondelanena.com) 
+[El Meson de la Nena](http://elmesondelanena.com/) 
 
 
 --------------------------------------------------------
