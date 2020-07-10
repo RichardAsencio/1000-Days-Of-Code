@@ -2,6 +2,58 @@
 # 1000 Days Of Code - Daily Log
 ### *My Career Change Journey into Software Development*
 
+--------------------------------------------------------
+
+### Log Entry for Day 93: Friday July 10th, 2020
+
+#### **Today's Progress:** 
+
+1. Continued StudioWeb Web Dev course - arrived to HTML5 Foundations Chapter 6 HTML Forms, I still have to go Chapter 7 HTML Tables and Chapter 8 The Head Section and Meta to finish HTML5 Foundations to move to CSS Foundations.
+
+2. Stalled the [Career Foundry's 5 Day Web Dev Course](https://careerfoundry.com/en/tutorials/web-development-for-beginners/) for the StudioWeb course ... will come back to it, as soom as I can !!! 
+
+#### **Insights or thoughts:**
+* I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to acommodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the HTML/CSS frontend web design side of it too. I want to do beautiful, impressive and very modern and professional front end stuff, mobile responsive sites and apps, etc
+
+*JavaScript*
+1. Hack Rector curriculum / the whole thing until nothing is left of all the material on G-Learn
+2. My JavaScript Udemy courses collection
+
+*Web Dev Front End Stuff*
+1. My Udemy Courses on Design Theory, UI UX courses (design mockups and wireframes for my portfolio website and el meson de la nena website and my latedev blog domain / plan on how to mix a portfolio webdev with my blog the latedev with the Richuack personal blog, all within the RichardAsencio domain) 
+
+2. BYOL courses on Design, start first with Adobe XD Course (design mockups and wireframes for my portfolio website and el meson de la nena website and my latedev blog domain / plan on how to mix a portfolio webdev with my blog the latedev with the Richuack personal blog, all within the RichardAsencio domain) 
+
+3. Go thru all of these: Internetting is Hard, Head First HTML, Front End Masters Bootcamp, Rob Percival, Colt Steele, Angela Yu Web Dev and Flutter, Brad Schiff two Udemy courses 
+
+4. start racking up certs from: Free Code Camp - All certs that are relevant, w3s All Certifications that are  relevant, and both Packt HTML & CSS and JavaScript Certs. And start to show these cert in my linkedIn profile
+
+5. Optimize my LinkedIn, Flexjobs, and Indeed profiles for Web Dev entry level, junior web dev remote jobs
+
+6. Perform an Internet Audit of my digital footpprint 
+
+7. Do the Front End Masters Full stack Leaning Path 
+
+8. Studio web / all the way down to the Freelance stuff  
+
+
+
+Have distinct simultaneous learning paths:
+*EMPHASIS IN CHRONOLOGICAL ORDER*
+1. JavaScript - hack Reactor 
+2. Web Dev - Front end - my resources
+3. TCP - IP - the book / networks, servers, clientes, how to set them up - the bowesl of the internet
+4. Design - graphic Design, UX, UI, wireframes, mockups, adobe tools, photo and video editing
+5. Computer Science, algo, data structures, etc 
+
+
+#### **Plans for tomorrow:**
+* first my time my Hack-Reactor JavaScript 
+* second my time with Adobe XD  
+* try to find an optimal workflow that allows me to do my Hack Reactor material and one-at-a-time Web Dev course
+
+* to keep in mind take a look at the list of courses at the bottom of my [Pending](PENDING.md) ... consider repeating both Jordan Hudgens and Dan Scott Essentials, but first finishing Interneting is Hard, Front End Master Bootcamp, Head First, FreeCode Camp Web Responsive, Packt HTML & CSS Workshop, w3c HTML & CSS, and then MDN Front End Learning Path
+
 
 --------------------------------------------------------
 
@@ -10,7 +62,7 @@
 #### **Today's Progress:** 
 
 1. Started StudioWeb Web Dev course - arrived to HTML5 Foundations Chapter 4 
-1. Stalled the [Career Foundry's 5 Day Web Dev Course](https://careerfoundry.com/en/tutorials/web-development-for-beginners/) fpr the StudioWeb course ... will come back to it, as soom as I can !!! 
+2. Stalled the [Career Foundry's 5 Day Web Dev Course](https://careerfoundry.com/en/tutorials/web-development-for-beginners/) fpr the StudioWeb course ... will come back to it, as soom as I can !!! 
 
 #### **Insights or thoughts:**
 * I will continue to primarily devote time on a daily basis at my JavaScript Hack Reactor curriculum, while on-the-side also trying to acommodate one-at-a-time web des&dev course of my choosing. I want to not only learn and move forward with my JavaScript programming learning effort, but also for the HTML/CSS frontend web design side of it too. I want to do beautiful, impressive and very modern and professional front end stuff, mobile responsive sites and apps, etc
