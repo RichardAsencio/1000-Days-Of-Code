@@ -3,6 +3,65 @@
 ### *My Career Change Journey into Software Development*
 
 
+--------------------------------------------------------
+
+### Log Entry for Day 97: Tuesday July 14th, 2020
+
+#### **Today's Progress:** 
+1. did some JavaScript challenges, cleaned and organized my Repl.its
+
+2. did a full timetable to rehash all the javaScript material to have as a goal to take the TI by Septemebr and enter to a Hack Reactor RPT cohort on Oct 12, 2020
+
+3. stalled the StudioWeb Web Dev course - arrived at CSS3-Foundations/Ch4-The-Box-Model/Leson-9-Color-and-Background-Images (try to finish it it if possible) 
+
+4. stalled the [Career Foundry's 5 Day Web Dev Course](https://careerfoundry.com/en/tutorials/web-development-for-beginners/) for the StudioWeb course ... will come back to it, as soom as I can !!! 
+(try to finish it it if possible)
+
+
+#### **Plans for tomorrow:**
+* Start FULL BLAST with the Hack-Reactor JavaScript curriculum to prepare myself for the TI 
+
+
+#### **Insights or thoughts:**
+* I will stop all my HTML CSS studying to devote all my time to my JavaScript Hack Reactor curriculum
+
+* I will continue to pursue my web and graphic design interests as possible when I am finally at Hack Reactor, is time allows, but I what to focus much of my energy on the JavaScript, PHP and Python as backend programming languages. 
+
+* if at Hack Reactor I can, on-the-side, acommodate one-at-a-time web des&dev course of my choosing, I would love to so as I want to not only learn and move forward with my JavaScript programming learning effort, but also for the HTML/CSS frontend web design side of it too. I want to do beautiful, impressive and very modern and professional front end stuff, mobile responsive sites and apps, etc learn about manipulating pictures in Photoshop, do Mockups in XD, and use Illustrator,InDesing, Premierefor and all the Adobde apps in my subscription for the full stack web design. From UI/UX, to wrireframes and mockups, to graphic design and manipulating of the digital assets, to implementing the front end stuff HTML, CSS & JScript (react, angular, vue) and then backend with JS Node, PHP for Wordpress, and Python Django Flask for backend stuff ... I mena becoming a full stack web developer.  
+
+* keep in mind take a look at the list of courses at the bottom of my [Pending](PENDING.md) ... consider repeating both Jordan Hudgens and Dan Scott Essentials, but first finishing Interneting is Hard, Front End Master Bootcamp, Head First, FreeCode Camp Web Responsive, Packt HTML & CSS Workshop, w3c HTML & CSS, and then MDN Front End Learning Path
+
+*JavaScript*
+1. Hack Rector curriculum / the whole thing until nothing is left of all the material on G-Learn
+2. My JavaScript Udemy courses collection
+
+*Web Dev Front End Stuff*
+1. My Udemy Courses on Design Theory, UI UX courses (design mockups and wireframes for my portfolio website and El meson de la nena website and my latedev blog domain / plan on how to mix a portfolio webdev with my blog the latedev with the Richuack personal blog, all within the RichardAsencio domain) 
+
+2. BYOL courses on Design, start first with Adobe XD Course (design mockups and wireframes for my portfolio website and el meson de la nena website and my latedev blog domain / plan on how to mix a portfolio webdev with my blog the latedev with the Richuack personal blog, all within the RichardAsencio domain) 
+
+3. Go thru all of these: Internetting is Hard, Head First HTML, Front End Masters Bootcamp, Rob Percival, Colt Steele, Angela Yu Web Dev and Flutter, Brad Schiff two Udemy courses 
+
+4. start racking up certs from: Free Code Camp - All certs that are relevant, w3s All Certifications that are  relevant, and both Packt HTML & CSS and JavaScript Certs. And start to show these cert in my linkedIn profile
+
+5. Optimize my LinkedIn, Flexjobs, and Indeed profiles for Web Dev entry level, junior web dev remote jobs
+
+6. Perform an Internet Audit of my digital footpprint 
+
+7. Do the Front End Masters Full stack Leaning Path 
+
+8. Studio web / all the way down to the Freelance stuff  
+
+
+Have distinct simultaneous learning paths:
+*EMPHASIS IN CHRONOLOGICAL ORDER*
+1. JavaScript - Hack Reactor 
+2. Web Dev - Front end - my resources
+3. TCP - IP - the book / networks, servers, clientes, how to set them up - the bowesl of the internet
+4. Design - graphic Design, UX, UI, wireframes, mockups, adobe tools, photo and video editing
+5. Computer Science, algo, data structures, etc 
+
+
 
 --------------------------------------------------------
 
