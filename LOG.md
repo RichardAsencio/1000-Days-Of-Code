@@ -2,6 +2,12 @@
 # 1000 Days Of Code - Daily Log
 ### *My Career Change Journey into Software Development*
 
+--------------------------------------------------------
+
+### Log Entry for Days 100 - 110: Friday July 17th, 2020 thru Monday July 27th, 2020
+*this is the first time that I spent so many days without coding*
+High volumes of work, plus new responsbilities with new remote work have kept me working long hours and just 
+too tired to do anyting except to throw myself at the sofa and passively consume anything on the TV, whenever I have a brief break, as my brain is drained on the complications of the past week ... for better of worse the COVID-19 pandemic has turned things upside down, so I am taking them one day at at time ... Today things ran normal, still tight on time, hene I hoepfully tomorow I will get jump into this back again !!! 
 
 --------------------------------------------------------
 
