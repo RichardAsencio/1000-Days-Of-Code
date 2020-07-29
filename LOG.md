@@ -4,6 +4,11 @@
 
 --------------------------------------------------------
 
+### Log Entry for Day 101 Tuesday July 28th, 2020
+Worked on array methods such as push, pop, unshift, shift, splice and splice from Bonus Prep/Deprecated/Module 0 - Beta // Operators and Methods for Arrays 
+
+--------------------------------------------------------
+
 ### Log Entry for Days 100 - 110: Friday July 17th, 2020 thru Monday July 27th, 2020
 *this is the first time that I spent so many days without coding*
 High volumes of work, plus new responsbilities with new remote work have kept me working long hours and just 
