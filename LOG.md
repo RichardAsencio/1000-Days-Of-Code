@@ -4,6 +4,11 @@
 
 --------------------------------------------------------
 
+### Log Entry for Day 102 Wednesady July 29th, 2020
+Practiced again array methods like push, pop, unshift, shift, splice, concat, join & split, typeof and Array.isArray, also started accesing elements in nested arrays  
+
+--------------------------------------------------------
+
 ### Log Entry for Day 101 Tuesday July 28th, 2020
 Worked on array methods such as push, pop, unshift, shift, splice and splice from Bonus Prep/Deprecated/Module 0 - Beta // Operators and Methods for Arrays 
 
