@@ -4,6 +4,12 @@
 
 --------------------------------------------------------
 
+### Log Entry for Day 103 Thursday July 30th, 2020
+*when I am drained I can practice the same as yesterday*
+Practiced again array methods like push, pop, unshift, shift, splice, concat, join & split, typeof and Array.isArray, also started accesing elements in nested arrays  
+
+--------------------------------------------------------
+
 ### Log Entry for Day 102 Wednesady July 29th, 2020
 Practiced again array methods like push, pop, unshift, shift, splice, concat, join & split, typeof and Array.isArray, also started accesing elements in nested arrays  
 
