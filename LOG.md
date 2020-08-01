@@ -4,13 +4,18 @@
 
 --------------------------------------------------------
 
+### Log Entry for Day 104 Friday July 31st, 2010
+Worked on objects from Bonus Prep/Deprecated/Module 0 - Beta // Operators and Methods for Objects / bracket notation and dot notation 
+
+--------------------------------------------------------
+
 ### Log Entry for Day 103 Thursday July 30th, 2020
 *when I am drained I can practice the same as yesterday*
 Practiced again array methods like push, pop, unshift, shift, splice, concat, join & split, typeof and Array.isArray, also started accesing elements in nested arrays  
 
 --------------------------------------------------------
 
-### Log Entry for Day 102 Wednesady July 29th, 2020
+### Log Entry for Day 102 Wednesday July 29th, 2020
 Practiced again array methods like push, pop, unshift, shift, splice, concat, join & split, typeof and Array.isArray, also started accesing elements in nested arrays  
 
 --------------------------------------------------------
