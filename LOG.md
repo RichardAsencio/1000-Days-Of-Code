@@ -4,7 +4,26 @@
 
 --------------------------------------------------------
 
-### Log Entry for Day 104 Friday July 31st, 2010
+### Log Entry for Day 128 Monday August 24th, 2020
+The COVID pandemic has made things sometimes so challenging that it's in the small amounts of spare time that I have everyday at night that I can code for a little bit. I haven't stopped coding or for that matter doing and learning web design and dev stuff, on the contrary, I have iterated, fiddled and tried a lot of stuff, but out of exhaustion, laziness and lack of time, have not come here for the usual daily logs.  
+
+The challenges related to work and income at the start of the pandemic had me without income for almost two months, then came the rebound (feast & famine cyle) in the income, but lately the activity has faltered again, hence the uncertainty cloud is again over my head. As this unfolds I got lucky with an additional income from Lionbridge working as a part-time remote job as a Web Search Rater. The work is interesting and fun, but takes me more twice the time to log a paid-hour, so for two hours daily I am spending sometimes up to fives hours, then I have my bookkeeping work waiting, so by the time I'm done there's no time or energy left in me to tackle with a clear mind my coding goals and path. 
+
+Which is why I have taken some detours, researched here and there to see if freelancing on fiverr or upwork as a web designer in spite of the rock botton prices, makes sense to me. Even earning mediocre income as a freelancer can potentially be much better use of my time (economically and for honing my web dev skills) instead of earning $14.00 per hour, for which I am typically spending more or less two hours for each paid-hour, hence having an effective wage rate of $7.00 or less per hour. 
+
+For this reason, I have dived into freelancing, CMSs, Webflow, read articles on freelancing, bought a couple courses in Undemy, tried Webflow, Adobe XD, Figma and finally settled with doing Wordpress. 
+
+Today I settled for Wordpress, and hecne decided that this decision warranted a log in my 1000 Days Of Code Career Journey. 
+
+To be sure, I am not dropping my Software Engineer career goals, or my choice of bootcamp, I am only delaying this for hopefully not much time, so that I can RIGHT NOW, leverage my current HTML, CSS and JavaScript skills to learn to churn simple websites with the most common CMS/site builder.
+
+I will try though to still remain doing my JavaScript Hack Reactor prep course work at least one hour a day, while I put whatever hours a day I can to "becoming a freelance Wordpress Developer at Fiverr and upWork. 
+    
+
+
+--------------------------------------------------------
+
+### Log Entry for Day 104 Friday July 31st, 2020
 Worked on objects from Bonus Prep/Deprecated/Module 0 - Beta // Operators and Methods for Objects / bracket notation and dot notation 
 
 --------------------------------------------------------
