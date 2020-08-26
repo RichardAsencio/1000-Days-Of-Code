@@ -4,6 +4,31 @@
 
 --------------------------------------------------------
 
+### Log Entry for Day 129 Tuesady August 25th, 2020
+
+#### **Today's Progress:** 
+Did the WORDPRESS tutorial [How To Make a WordPress Website - 2020](https://www.youtube.com/watch?v=6gosrWrGF9Q&t=1692s)
+
+#### **Plans for tomorrow:**
+Start [Wordpress for Beginners - Master Wordpress Quickly](https://www.udemy.com/course/wordpress-for-beginners-course/)
+
+#### **Goals**
+1. Finish this UDEMY course in a week, to get started with the next. 
+2. Start setting up my blog TheLateDev.
+3. Start setting up my portfolio of works. 
+4. Start freelancing on Fiverr and Upwork. 
+
+#### **Pending**
+1. [The Complete WordPress Website Business Course](https://www.udemy.com/course/the-complete-wordpress-website-business-course/)
+
+2. [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
+
+3. [WP Shout Up & Running](https://courses.wpshout.com/wp-login.php?loggedout=true&wp_lang=en_US)
+
+4. Join DoubleStack.net   
+
+--------------------------------------------------------
+
 ### Log Entry for Day 128 Monday August 24th, 2020
 The COVID pandemic has made things sometimes so challenging that it's in the small amounts of spare time that I have everyday at night that I can code for a little bit. I haven't stopped coding or for that matter doing and learning web design and dev stuff, on the contrary, I have iterated, fiddled and tried a lot of stuff, but out of exhaustion, laziness and lack of time, have not come here for the usual daily logs.  
 
