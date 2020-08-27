@@ -4,7 +4,33 @@
 
 --------------------------------------------------------
 
-### Log Entry for Day 129 Tuesady August 25th, 2020
+### Log Entry for Day 130 Wednesday August 26th, 2020
+
+#### **Today's Progress:** 
+Started [Wordpress for Beginners - Master Wordpress Quickly](https://www.udemy.com/course/wordpress-for-beginners-course/)
+
+
+#### **Plans for tomorrow:**
+Continue [Wordpress for Beginners - Master Wordpress Quickly]() on Section 6 - The Gutenberg Editor / Inserting Images & Wrap
+
+#### **Goals**
+1. Finish this UDEMY course in a week, to get started with the next. 
+2. Start setting up my blog TheLateDev.
+3. Start setting up my portfolio of works. 
+4. Start freelancing on Fiverr and Upwork. 
+
+#### **Pending**
+1. [The Complete WordPress Website Business Course](https://www.udemy.com/course/the-complete-wordpress-website-business-course/)
+
+2. [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
+
+3. [WP Shout Up & Running](https://courses.wpshout.com/wp-login.php?loggedout=true&wp_lang=en_US)
+
+4. Join DoubleStack.net   
+
+--------------------------------------------------------
+
+### Log Entry for Day 129 Tuesday August 25th, 2020
 
 #### **Today's Progress:** 
 Did the WORDPRESS tutorial [How To Make a WordPress Website - 2020](https://www.youtube.com/watch?v=6gosrWrGF9Q&t=1692s)
