@@ -4,10 +4,90 @@
 
 -------------------------------------------------------
 
+### Log Entry for Day 135 Monday August 31st, 2020
+
+#### **Today's Progress:** 
+* continued with [Wordpress for Beginners - Master Wordpress Quickly](https://www.udemy.com/course/wordpress-for-beginners-course/)
+
+* bought the WP Elevation Digital Agency Blueprint - it includes The Hight Ticket Sales Funnels Blueprint, the WP ELevation Blueprint and the Web Care Plasns Master Class
+
+
+
+#### **Plans for tomorrow:**
+* one hour for Galvanize / Hack Reactor 
+
+* start my WP Elevation Digital Agency Blueprint - do two hours
+
+* start the No Fear Funnels course - do two hours
+
+* do the Design Build Web free four videos course to create an Optin landing page  
+
+* continue [Wordpress for Beginners - Master Wordpress Quickly](https://www.udemy.com/course/wordpress-for-beginners-course/learn/lecture/1983858?start=0#questions) on Section 7 - Item 46 Plugins & Adding a Sitemap 
+
+* continue to think about what people/projects to start with that I could implement and aso then inlcude as part of my portfolio 
+
+1. revamp El Meson de la Nena site
+2. Carmita and her Holistikarma, can be a person I can work with to try to start managing her campaigns and her wordpress site / she has all I need to do it, she is a designer, she can build her own pdf, etc etc [she could be the perfect first real project for me]()
+
+* check the following groups in Facebook for new insights: Double Stack, WP Shout, WP Elevation, No Fear Sales Funnels and Elementor group, WP Elevation Cadets
+
+
+#### **Goals**
+1. Finish this UDEMY course in a week, to get started with the next. 
+2. Start setting up my blog TheLateDev.
+3. Start setting up my portfolio of works. 
+4. Start freelancing on Fiverr and Upwork to have a taste of these freelancing sites
+
+
+#### **Pending**
+##### In order of Completion 
+
+1. Udemy
+    [The Complete WordPress Website Business Course](https://www.udemy.com/course/the-complete-wordpress-website-business-course/)
+
+2. Elementor 
+    a. Watch this Bonus resource from my No Fear Funnels Coursework[Building the Website with Elementor Pro](https://academy.nofearfunnels.co/courses/take/building-the-gbc-website-elementor-pro/texts/5028185-01-introduction)
+    b.[Elementor Basic Free Courses](https://elementor.com/getting-started/)
+    c. This content will allow me to create a Real Estate Site, a Bar Website, a Consulting Website, a Dating Website, a Non Profit Website, a Band Website, a Dentist Website, a Cafe Website, a Barber Website, a Resume Website a Gym Website, a Medical Website, a Business Website, a Restaurant Website, an Accounting Website, a Blog Website, an Artist Website, a Musician Website, and Event Website, a Wedding Website, a Travel Website, and Ecommerce Website, a Construction Website, a Lawyer Website, a Personal Website and a Photographuy Website  [Create Any Type of Website Using Elementor](https://elementor.com/how-to-create/)
+
+3. Design Build Web - Dave Foy [the no fear sales funnel guy](https://www.designbuildweb.co/) 
+    a. [How to Create a High-Converting Opt-In Landing Page](https://www.designbuildweb.co/)
+    b. [How to Create a High Converting Opt-In Landing Page - Video 1](https://www.designbuildweb.co/elementor-landing-page/)
+    c. [How to Create a High Converting Opt-In Landing Page - Video 2](https://www.designbuildweb.co/elementor-landing-page-2/)
+    d. [How to Create a High Converting Opt-In Landing Page - Video 3](https://www.designbuildweb.co/elementor-landing-page-3/)
+    e. [How to Create a High Converting Opt-In Landing Page - Video 4](https://www.designbuildweb.co/elementor-landing-page-4/)
+
+3. [No Fear Sales Funnels 1.0 Full Course](https://academy.nofearfunnels.co/users/sign_in) or [this other linke](https://academy.nofearfunnels.co/enrollments)
+
+
+4. a. on WP Elevation - first the HTSF course, then the WP Blueprint and then Web Care Master Class, then the Content Strategy Master Class, also look for the article that has a tempalte to think about content form the Merrick Girls 
+
+4. b. WP Elevation / first the Blue Print - then Digital Agency Blueprint 
+[WP Elevation](https://www.wpelevation.com/)
+[WP Elevation Blueprint](https://courses.wpelevation.com/the-blueprint/)
+[WP Digital Agency Blueprint](https://courses.wpelevation.com/digital-agency-blueprint/join/?_ga=2.17833279.767650061.1598622953-1733534558.1598622953)
+[WP Elevation Blog](https://www.wpelevation.com/blog/)
+[WP Elevation Article - THE DEFINITIVE GUIDE TO WINNING BETTER WORDPRESS WEBSITE CLIENTS -- 33 mins read](https://www.wpelevation.com/definitive-guide-winning-wordpress-clients/?fbclid=IwAR2A85_Dyh1qT104irrPIy63nE6332Km6U9UZzH7tmk4lUjlIX7M6BjGq9c&utm_campaign=betterclients&utm_medium=welcome&utm_source=fbdmgroup)
+
+
+#### 
+On the Side or on Weekends 
+* continue with the Hack Reactor / Galvanize Platform until the end. And then proceed to the Udemy courses on Web Dev 
+
+* [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
+
+* [WP Shout Up & Running](https://courses.wpshout.com/wp-login.php?loggedout=true&wp_lang=en_US)
+
+* Read Coyier and Starr pdf on Wordpress 5.5 [Perishable Press Books](https://books.perishablepress.com/wp/wp-admin/index.php) I have a folder with all the goodies I had for purchasing their ebook  
+
+-------------------------------------------------------
+
 ### Log Entry for Day 134 Sunday August 30th, 2020
 
 #### **Today's Progress:** 
 * continued with [Wordpress for Beginners - Master Wordpress Quickly](https://www.udemy.com/course/wordpress-for-beginners-course/)
+
+* bought the No Fear Funnels 1.0 course 
 
 
 #### **Plans for tomorrow:**
