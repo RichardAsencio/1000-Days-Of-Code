@@ -7,7 +7,7 @@
 ### Log Entry for Day 183 Friday October 18th, 2020
 * As I reflect on the fact that I am on Day 183 from the last time I came to log here which was day 139, I've come along way. As per this personal project's goal, every day without fault I've invested time in learning Wordpress, GeneratePress theme and Elementor pagebuilder. And in 44 days I've learned to build from footers, to headers to simple landing pages. I've learned also a lot as it relates to Domains and DNS records, how to manage my domains from my domain registrar instead of form hosting company, by setting up and correctly pointing these DNS records. I also have learned to set up domain emails and transactional emails with dedicated and external SMTP solutions. I've also learned how to develop locally using tools like MAAMP and LocalByFLyWheel. And also how to created sudomains at my shared-hosting company "BlueHost", while also experimenting with a small account at a cloud hosting company "Cloudways". And along the way how to setup servers, make some PHP settings, etc. Oh yeah, because I've been able to leverage my JavaScript knowledge into learning PHP. 
 
-All in all it has been amazing the amount of stuff I've learned and all the fun I've had all alone by myself, since I decided to make a inflection point and forget about the deep sunk costs of my JavaScript/Hack Reactor path, and try Wordpress for reasons related to a freelance mindset. 
+All in all it has been amazing the amount of stuff I've learned and all the fun I've had along these days, all alone by myself, since I decided to make a inflection point and forget about the deep sunk costs of my JavaScript/Hack Reactor path, and try Wordpress for reasons related to a freelance mindset. 
 
 If I do not comeback here to log anything, at least in 42 more days, on Sunday November 23 2020, I will come here to log where I am with Wordpress. 
 
@@ -15,6 +15,9 @@ By Sunday November 23, 2020 MY GOALS are:
 1. to be much more proficient and be spinning simple websites easily
 2. to already have a business website of my own, with a businessname, my logo, my brand color palette and a portfolio of samples of my designs
 3. I want to be doing business at Fiverr, just for the sake of getting practice even if charging ridculously low rates for my work 
+
+Quick Note:
+😱 ... I was about to make my git log entry and started having difficulties moving around Terminal, Git and the commands. Hence I feel it serves me best to keep coming back here as frequently as I can to not lose my related skills and knowledge on this. I also know that at some point, when diving into Wordpress Development instead of Design, I will use Git and VS Code as part of my workflow.  
 
 #### **Today's Progress:** 
 
