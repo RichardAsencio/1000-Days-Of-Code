@@ -4,7 +4,26 @@
 
 -------------------------------------------------------
 
-### Log Entry for Day 183 Friday October 18th, 2020
+### Log Entry for Day 185 Tuesday October 20th, 2020
+ 
+#### **Today's Progress:**
+* Today I learned how having a layout system, "set of styling rules", to start off with all my sites development allows me to build faster while keeping alignment, consistent spacing and generous negative, that results in overall sites design layouts that look great and are pleasing to the eye.
+
+#### **Plans for tomorrow:**
+* learn how to manage and work with inner sections "nested sections, sections nested within sections"
+
+#### **Goals**
+Finish Module 3 The Framework of NSWP
+
+#### **Pending - In Order for Completion**
+NSWP 
+WP Crafter Elementor Courses
+  
+
+
+-------------------------------------------------------
+
+### Log Entry for Day 183 Sunday October 18th, 2020
 * As I reflect on the fact that I am on Day 183 from the last time I came to log here which was day 139, I've come along way. As per this personal project's goal, every day without fault I've invested time in learning Wordpress, GeneratePress theme and Elementor pagebuilder. And in 44 days I've learned to build from footers, to headers to simple landing pages. I've learned also a lot as it relates to Domains and DNS records, how to manage my domains from my domain registrar instead of form hosting company, by setting up and correctly pointing these DNS records. I also have learned to set up domain emails and transactional emails with dedicated and external SMTP solutions. I've also learned how to develop locally using tools like MAAMP and LocalByFLyWheel. And also how to created sudomains at my shared-hosting company "BlueHost", while also experimenting with a small account at a cloud hosting company "Cloudways". And along the way how to setup servers, make some PHP settings, etc. Oh yeah, because I've been able to leverage my JavaScript knowledge into learning PHP. 
 
 All in all it has been amazing the amount of stuff I've learned and all the fun I've had along these days, all alone by myself, since I decided to make a inflection point and forget about the deep sunk costs of my JavaScript/Hack Reactor path, and try Wordpress for reasons related to a freelance mindset. 
