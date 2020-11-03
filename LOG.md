@@ -4,6 +4,35 @@
 
 -------------------------------------------------------
 
+### Log Entry for Day 199 Tuesday November 3rd, 2020
+* 
+
+#### **Update Note**
+* For the last several days I made a pause in my NSWP curriculum to focus on the resources of a site I came across as I listened to a podcast by Troy Dean. The resources site was LaunchParty.org. When I visited the site I found it AWESOME, because of the great basic tutorials with Elementor, how to set up domain emails, deal with logos creation, images optimizaton, a lot of free templates, and many lists of resources to check on ... but with a caveat !!! ... it so happens that this site was about to be shut down. As I went into the site, a pop-up kept popping up with a message alerting that the site's long term vision was no longer viable due to some late changes in technology related to the page-builder in which the tutorials videos were based, and hence the site will be taken down. It was around October 20th and I had until Oct 31st to got thru, copy or suck all I could form this awseome site, I even wrote an email to the founder Mathew Averkamp, asking for the reasons for the shutown, pleading for him to continue, and even offering to help, but got no response. 
+
+So I started copying content into a single PAGES doc, I also started recording the full pages thru videos with SnagIt, by then I quickly realized that's I'll never be able to go thru all the content in this manner, hence i started googling for solutions, like web scraping, or copying entire sites and came with a solution called SiteSucker. This software was godsend, I purchased the PRO version and with it was able to suck all PartyLaunch site contents in no time, except for the videos, which admittedly are the majority of the content. However I was ble to have an offline copy of the site, so I began going thru all the pages in my ofline copy and identifying all the videos, and recording them with SnagIt. I pretty much was ble to end this on October 31st around noon, twelve hours earlier than the shutdown date which was on November 1st, 2020.
+
+Finally as of November 3rd, 2020 the site was still up, but I now have my own copy of the site and it's videos to view offline when I finish the NSWP course. Now I am coming back to where I paused in NSWP Academy.
+ 
+#### **Today's Progress:**
+* 
+
+#### **Plans for tomorrow:**
+* 
+
+#### **Goals**
+* 
+
+#### **Pending - In Order for Completion**
+1. NSWP
+2. [Ferdy Kopershoeck - Elementor Tutorial for Beginners](https://youtu.be/QKIzgeTbDII) / this tutorial explains the difference between themes and page builders, goes thru all the Elementor workflow, all the widgets, some free addons to Elementor, how to work with global color and typography.
+3. Party Launch - Tutorial
+4. WP Crafter Elementor Courses
+
+
+
+-------------------------------------------------------
+
 ### Log Entry for Day 185 Tuesday October 20th, 2020
  
 #### **Today's Progress:**
