@@ -3,6 +3,28 @@
 ### *My Career Change Journey into Software Development*
 
 -------------------------------------------------------
+*BIG GOALS --- LAUNCH MY WORDPRESS WEB DESIGN AND DEV AGENCY*
+
+### Log Entry for Day 265 Wednesday January 6th, 2021
+
+#### **Update Note**
+* for the last several weeks I have been practicing Worpdress, Webflow, Live Canvas, Swipe Pages, etc in an unstructured way. Whatever I feel pleased to do. My guess this has been a way to cope with exhaustion from the COVID pandemic and the distressing news and circumstances about the health situation of my father-in-law. I wont go into details here but it has been a complete crazy rollercoaster this COVID situation plus the cancer situation in my fiancee's family. Not been able to travel, the worsening conditions of the pandemic, the not-cooperative behavior of my father-in-law, and I trying my best to support my fiancee. Still I've kept at it with few exceptions, pretty much everyday. 
+
+* as I now finally embark into launching my Wordpress Digital Agency I decided it will be on Wordpress, rather than Webflow for now. Hence as part of my business launch I am reviewing again my NSWP course to build my own business website and two additional website builds from real businesses (from friends), and once I have my business site plus two live sites as part of my portfolio, plues the testimonials, then I will start marketing my business   
+
+#### **Today's Progress:**
+* 
+
+#### **Plans for tomorrow:**
+* 
+
+#### **Goals**
+* 
+
+#### **Pending - In Order for Completion**
+
+
+-------------------------------------------------------
 
 ### Log Entry for Day 199 Tuesday November 3rd, 2020
 * 
