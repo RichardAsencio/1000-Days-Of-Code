@@ -5,6 +5,27 @@
 -------------------------------------------------------
 *BIG GOALS --- LAUNCH MY WORDPRESS WEB DESIGN AND DEV AGENCY*
 
+### Log Entry for Day 277 Monday January 18th, 2021
+
+#### **Today's Progress:**
+* did Hack Reactor Bonus Prep material {got started recently} 
+* did the WPMA 101 Module 1 - Everything You Need To Know But Probably Don't / next Why You Need Project Management Skills  
+* did the WPE Blueprint Welcome video and created my Dropbox file structure for all the resources
+
+
+
+#### **Plans for tomorrow:**
+* 
+
+#### **Goals**
+* 
+
+#### **Pending - In Order for Completion**
+
+
+-------------------------------------------------------
+*BIG GOALS --- LAUNCH MY WORDPRESS WEB DESIGN AND DEV AGENCY*
+
 ### Log Entry for Day 265 Wednesday January 6th, 2021
 
 #### **Update Note**
