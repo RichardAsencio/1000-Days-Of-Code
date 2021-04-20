@@ -2,6 +2,46 @@
 # 1000 Days Of Code - Daily Log
 ### *My Career Change Journey into Software Development*
 
+
+
+
+
+
+-------------------------------------------------------
+
+
+*THIS WAS A BIG HIATUS ON COMING HERE TO ANNOTATE MY PROGRESS, MY ACTIVITIES IN MY SOFTWARE DEVELOPMENT JOURNERY - NOW BEST DESCRIBED AS BECOMING A DIGITAL AGENCY OWNER*
+**FROM JANUARY 19TH, 2021 THRU APRIL 19, 2021**
+
+-------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------
+*BIG GOALS --- LAUNCH MY WORDPRESS WEB DESIGN AND DEV AGENCY*
+
+### Log Entry for Day 278 Tuesady January 19th, 2021
+
+#### **Today's Progress:**
+* 
+
+#### **Plans for tomorrow:**
+* 
+
+#### **Goals**
+* 
+
+#### **Pending - In Order for Completion**
+
+
+
 -------------------------------------------------------
 *BIG GOALS --- LAUNCH MY WORDPRESS WEB DESIGN AND DEV AGENCY*
 
@@ -4260,3 +4300,104 @@ or
 --------------------------------------------------------
 
 
+
+
+
+
+
+TEMP TEXT PASTE
+
+
+
+-------------------------------------------------------
+*BIG GOALS - LAUNCH My Digital Agency Web Design & Development / Webflow and WORDPRESS/Oxygen  (leveraging the NO Code movememnt)*
+
+### Log Entry for Day 368 Monday April 19, 2021 
+
+#### **Current Status**
+
+* I am here after some time to do some DUE housekeeping, cleaning and organizing 🧹
+
+* I am reaally excited and proud of myself as I've come a long way in Wordpress and Webflow, and now can spin up decent websites  💪
+
+* I am setting up myself to finally start my freelance web design and development business while thinking and being mindful of building the foundation for having a Digital Agency that has a team and scales up. 
+
+* I need to continue to think and create my own SOPs, records keeping, project management automations, systems and finance managememt to be able to build and grow my freelance operation into a business: Digital Agency
+
+* I want to be an all-in-house provider of services for web/digital projects. I want to be in charge of all the basic stages in the creative process for the whole project. For this I need to learn it all myself, not to be an epxert but to have the basics nailed down very clearly. Only then I can start thinking about scaling my business by bringing better people than me in each skills, tasks or project stages. But again, I need to be able to tell whats is great job from what is not, to be able to recruit great people, manage them well and always be in control of the quality and timelines of multiple projects. So I can focus on quality output, timeline adherence, systems improvments and sales/marketing/advertising, SEO and content producing.     
+
+
+#### **Today's Progress:**
+
+* doing some cleaning and housekeeping here 
+
+
+#### **Plans for tomorrow:**
+
+Daily TIME ALOOCATION for these five essential daily activities 
+* Software Dev - JavaScript 
+* Graphic Design / Illustrator - logos / After Effects/Lottie files/ InDesign, Photoshop 
+* Web Design - UI/UX, colors, font, wireframes, mockups
+* Web Development - Webflow, more practice
+* Project & Business Management 
+
+
+#### **Goals**
+
+* a MINIMUM one hour per essential daily activity 
+
+
+#### **Pending - In Order for Completion**
+1. Software Development - JavaScript (Hack Reactor Free Resources) (Full Stack Free Resources) (Computer Science and Related Applied Math) [machine learning, deep learning, artifical intelligence, internmet of objects, virtual asistantants, audio interfaces, accesibility issues,    ] 
+
+2. Illustrator - logos and illustrations / Fresco and Procreate / (Graphic Designer Pro) / (92 Learns) / (EnvatoTuts) 
+
+3. UI/UX/Web Interfaces - (my Udemy courses) (my Domestika courses) (my aWWWards courses)    
+
+4. Adobe XD, Figma , Sketch - wireframes and mockups (Living With Pixels XD Course) / (Domestika Adobe XD Course) / (EnvatoTuts)
+
+5. Webflow - web development
+
+6. Wordpress Oxygen / on the side - web development 
+
+7. After Effects / Lottie Files / animations
+
+8. Project Management - / Drama Freee Design & Design To Delight 
+
+9. Business Management - Web Design Studio Accelerator (John D Saunders) / WPElevation(Troy Dean) / Double Stack (Lee Blue) / Sales Driven Website (Marlon Marescia)
+
+
+#### **ACTIVITIES TO PRIORITIZE** 
+1. Software Development - JavaScript (Hack Reactor Free Resources) (Full Stack Free Resources) (Computer Science and Related Applied Math) [machine learning, deep learning, artifical intelligence, internmet of objects, virtual asistantants, audio interfaces, accesibility issues,    ] 
+
+2. Illustrator - logos and illustrations / Fresco and Procreate / (Graphic Designer Pro) / (92 Learns) / (EnvatoTuts) 
+
+3. UI/UX/Web Interfaces - (my Udemy courses) (my Domestika courses) (my aWWWards courses)    
+
+4. Adobe XD, Figma , Sketch - wireframes and mockups (Living With Pixels XD Course) / (Domestika Adobe XD Course) / (EnvatoTuts)
+
+5. Webflow - web development
+
+6. Wordpress Oxygen / on the side - web development 
+
+7. After Effects / Lottie Files / animations / 3D in Photoshop, et al
+
+8. Project Management - / Drama Freee Design & Design To Delight 
+
+9. Business Management - Web Design Studio Accelerator (John D Saunders) / WPElevation(Troy Dean) / Double Stack (Lee Blue) / Sales Driven Website (Marlon Marescia)
+
+10. Exercise (CoachTo5K, The 10x Protocol, walk, stairs down and climbing)
+
+11. Nutrition / Cooking (vegan cooking course)
+
+13. Reading (print books)
+
+14. Personal Developmemnt (the 5am Club)
+
+#### Ideas 
+
+Follow Ran Segall's Playbook:
+1. Build Agency / I want to have my own six figure digital agency (250k) 
+2. Launch YouTube Channel in SPANISH / I want to have my own YouTube channel for Spanich speaking audience on Webflow (there's none right now)
+3. Launch Course in SPANISH on Web Design and Developmemnt / while bringing free content into YouTube I can build authorithy to eventually launch my own course on Webflow (for brochure sites, and then for sales driven sites)
+4. Launch a Course in SPANISH on Building an Agency of Freelance Buisness 
