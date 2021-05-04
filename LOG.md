@@ -3,6 +3,42 @@
 ### *My Career Change Journey into Software Development*
 
 
+//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--
+
+*BIG GOALS --- LAUNCH MY WEBFLOW WEB DESIGN AND DEV AGENCY*
+
+## SoD Log Entry for Day 383 Tuesday May 4th, 2021
+
+### **Plans for today:**
+* Start with Kreative Pro
+* Resume form the beginning Graphic Designher PRO Illustrator course
+* Attend Puerto Rico Meetup "Co-founder Networking - Find a Business Partner Online"  
+  
+### **Plans for tomorrow:**
+* 
+
+### **Special Notes for Today**
+* 
+
+/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+
+# EoD Log Entry for Day 383 Tuesday May 4th, 2021
+
+
+### **Today's Progress:**
+* 
+
+### **Plans for tomorrow:**
+* 
+
+### **Special Notes for Today**
+* 
+
+
+//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--
+
+
+
 -------------------------------------------------------
 
 ###   First Day Log Entry for Day 383 Tuesday May 4th, 2021 
@@ -19,7 +55,7 @@
 
 *BIG GOALS - LAUNCH My Digital Agency Web Design & Development / Webflow and WORDPRESS/Oxygen  (leveraging the NO Code movememnt)*
 
-### Log Entry for Day 383 Tuesday <ay 4th, 2021 
+### Log Entry for Day 383 Tuesday Day 4th, 2021 
 
 #### **Current Status**
 
