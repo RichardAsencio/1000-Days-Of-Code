@@ -7,12 +7,12 @@
 
 *BIG GOALS --- LAUNCH MY WEBFLOW WEB DESIGN AND DEV AGENCY*
 
-## SoD Log Entry for Day 383 Tuesday May 4th, 2021
+## SoD Log Entry for Day 384 Wednesday May 5th, 2021
 
 ### **Plans for today:**
-* Start with Kreative Pro
-* Resume form the beginning Graphic Designher PRO Illustrator course
-* Attend Puerto Rico Meetup "Co-founder Networking - Find a Business Partner Online"  
+* Continue with Kreative Pro
+* Resume from the beginning Graphic Designher PRO Illustrator course
+*   
   
 ### **Plans for tomorrow:**
 * 
@@ -22,8 +22,7 @@
 
 /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
 
-# EoD Log Entry for Day 383 Tuesday May 4th, 2021
-
+# EoD Log Entry for Day 384 Wednesady May 5th, 2021
 
 ### **Today's Progress:**
 * 
