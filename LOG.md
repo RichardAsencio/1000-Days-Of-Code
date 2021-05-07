@@ -2,6 +2,43 @@
 # 1000 Days Of Code - Daily Log
 ### *My Career Change Journey into Software Development*
 
+------------------------------------------------------------
+
+//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--
+
+*BIG GOALS --- LAUNCH MY WEBFLOW WEB DESIGN AND DEV AGENCY*
+
+## SoD Log Entry for Day # 386 Friday May 7th, 2021
+
+### **Plans for today:**
+* Continue with Kreative Pro
+* Resume from the beginning Graphic Designher PRO Illustrator 
+course
+*   
+  
+### **Plans for tomorrow:**
+* 
+
+### **Special Notes for Today**
+* 
+
+/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+
+# EoD Log Entry for Day # 386 Friday May 7th, 2021
+
+### **Today's Progress:**
+* 
+
+### **Plans for tomorrow:**
+* 
+
+### **Special Notes for Today**
+* 
+
+
+//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--
+
+------------------------------------------------------------
 
 //--//--//--//--//--//--//--//--//--//--//--//--//--//--//--
 
@@ -22,7 +59,7 @@
 
 /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
 
-# EoD Log Entry for Day 384 Wednesady May 5th, 2021
+# EoD Log Entry for Day 384 Wednesday May 5th, 2021
 
 ### **Today's Progress:**
 * 
